@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>About | Friends in Central Places</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/places_style.css') }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+   <style type="text/css">
+    img.resize{
+      max-width:180px;
+      height: auto;
+    }
+  </style>
+  <style type="text/css">
+    body{
+    }
+    .bs-example{
+      margin: 20px;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+  {% include 'navbar.html' %}
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h2>What is the social network of informal collaboration?</h2>
+        <p>The social network of informal collaboration in financial economics shows how financial economists work together. Academics frequently discuss their work with their colleagues: at conferences, when holding a visiting position at another department, or in casual discussions with other faculty members around the water cooler. They exchange new ideas, point to emerging trends, share new literature and critize each others work, all of which can be subsumed as social informal collaboration. Typically, authors acknowledge informal collaboration in a separate footnote in a published article. We use these acknowledgements to create the social network of informal collaboration in financial economics. It links authors and acknowledged commenters by undirected and weighted links.</p>
+        <p>Informal collaboration is an important part of our academic life. We set up this website because of two reasons: We thought our colleagues might be interested to learn about patterns of informal collaboration and see where they are in our rankings. But most importantly because we had fun doing so.</p>
+        <p>Come back every now and then, as we will update our data sources, extend our analyses, and implement new visualizations.</p>
+      </div>
+    </div>
+  <hr/>
+    <div class="row">
+      <div class="col-xs-12">
+        <a href="http://co-georg.de/">
+          <img class="resize" src="{{ url_for('static', filename='images/CoPierre.jpg') }}" alt="thumbnail" align="left" style="float:left;padding-right:25px;border:none">
+        <p><b>Co-Pierre Georg</b></p>
+        </a>
+        <p>Co-Pierre is a Senior Lecturer at the African Institute of Financial Markets and Risk Management at University of Cape Town, a Research Economist at Deutsche Bundesbank, and a Policy Associate at Economic Research Southern Africa. He is working on financial and economic networks, agent-based modelling, and microeconomics of banking. The views on this website are not the views of Deutsche Bundesbank.</p>
+        <br />
+        <a href="http://michael-e-ro.se/">
+          <img class="resize" src="{{ url_for('static', filename='images/Michael.jpg') }}" alt="thumbnail" align="left" style="float:left;padding-right:25px;border:none">
+          <p><b>Michael E. Rose</b></p>
+        </a>
+        <p>Michael E. Rose has been a PhD student at the African Institute of Financial Markets and Risk Management at University of Cape Town since April 2015. He works on social networks in financial and economic applications. He has been visiting De Nederlandsche Bank in 2016 and is also a Research Affiliate at Kiel Institute for the World Economy.</p>
+
+      </div>
+    </div>
+  </div>
+
+  <br>
+  <br>
+  {% include 'footer.html' %}
+</div>
+</body>
+
+</html

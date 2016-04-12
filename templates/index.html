@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta property="og:title" content="Friends in Central Places"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="Academics collaborate informally by discussing their work with colleagues. We study the social network among financial economists and rank them according to their centrality in the network."/>
+  <meta property="og:url" content="{{ url_for('index') }}"/>
+  <meta property="og:site_name" content="Friends in Central Places"/>
+  <meta property="og:image" content="{{ url_for('static', filename='images/all-late_rankflow.png') }}"/>
+  <meta property="fb:app_id" content="966242223397117"/>
+  <meta property="twitter:title" content="Friends in Central Places"/>
+  <meta property="twitter:image" content="{{ url_for('static', filename='images/all-late_rankflow.png') }}"/>
+  <meta property="twitter:description" content="Academics collaborate informally by discussing their work with colleagues. We study the social network among financial economists and rank them according to their centrality in the network."/>
+
+  <title>Friends in Central Places</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/places_style.css') }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.js"></script>
+  <style type="text/css">
+    body{
+      padding-top: 0px;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+
+  <div class="jumbotron" style="background-image: url({{ url_for('static', filename='images/places_header.jpg') }}); border: 0px;" >
+    <div class="row" style="height: 200px;">
+      <div class="col-xs-12">
+        <h1 style="color: #fff;">Friends in Central Places</h1>
+        <p style="color: #fff;">The Social Network of Informal Collaboration in Financial Economics</p>
+      </div>
+    </div>
+    <div class="row" style="height: 400px;">
+      <div class="col-xs-12">
+        <blockquote><p style="color: #fff;">"So how should authors maximize the value of the journal review process? They should circulate their papers and give seminars to colleagues to receive constructive criticism before submitting to a journal."</p>
+          <p><small style="color: #ff44aa;">Richard Green, Maureen O’Hara, and G. William Schwert, Joint Editorial, The Journal of Finance (57)2, p. 1032.</small></p>
+        </blockquote>
+        <!--
+        <blockquote><p style="color: #fff;">"The growth of ideas is an international process, and only those who fully take part in the discussion will be able to exercise a significant influence."</p>
+          <p><small style="color: #ff44aa;">Friedrich August von Hayek, The Constitution of Liberty, p 350.</small></p>
+        </blockquote>
+        -->
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-4">
+      <h2><span class="glyphicon glyphicon-flash"></span> The Paper</h2>
+      <p>In <a href="http://www.co-georg.de">Co-Pierre Georg</a> and <a href="http://www.michael-e-ro.se">Michael E. Rose</a>: <i>"Mirror, Mirror, on the Wall, Who is the Most Central of Them All?"</i> (<a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709107" target="_blank">SSRN</a>) we create the social network of informal collaboration based on acknowledgments from more than 2,700 published research papers from six financial economics journals.</p>
+      <p><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709107" target="_blank" class="btn btn-success">Our paper on SSRN &raquo;</a></p>
+    </div>
+    <div class="col-xs-4">
+      <h2><span class="glyphicon glyphicon-list"></span> The Rankings</h2>
+      <p>Who are the most central financial economists of our time? We provide rankings according to two centrality measures compared to the number of times they are acknowledged. We look at two samples (1998-2000 and 2009-2011) and both the network of informal collaboration and the network of formal collaboration.</p>
+      <p><a href="{{ url_for('rankings', rtype='comwith', time='late', ranking='occurrence') }}" class="btn btn-success">To the Rankings &raquo;</a></p>
+    </div>
+    <div class="col-xs-4">
+      <h2><span class="glyphicon glyphicon-random"></span> The Networks</h2>
+      <p>How does the social network of informal collaboration actually look like? Find out who knows whom and where you have been acknowledged.</p>
+      <p><a href="{{ url_for('networks', net_type='comwith', time='late') }}" class="btn btn-success">See the Networks (Graph view) &raquo;</a></p>
+      <p><a href="{{ url_for('rings', time='late', focus='RENE_M_STULZ') }}" class="btn btn-success">See the Networks (Ring view) &raquo;</a></p>
+    </div>
+  </div>
+
+  <br>
+  <br>
+
+  <div class="row">
+    <div class="col-xs-4">
+      <h2><span class="glyphicon glyphicon-user"></span> About</h2>
+      <p>Here you can find out a bit more about who we are and why we think this website is a fun project.</p>
+      <p><a href="{{ url_for('about') }}" class="btn btn-success">Find out &raquo;</a></p>
+    </div>
+    <div class="col-xs-4">
+      <h2><span class="glyphicon glyphicon-education"></span> The Institute</h2>
+      <p>We are affiliated with The African Insitute of Financial Markets and Risk Management (AIFMRM), South Africa's leading finance and risk institute, based at the University of Cape Town.</p>
+      <p><a href="http://aifmrm.uct.ac.za" class="btn btn-success" target="_blank">Learn about AIFMRM &raquo;</a></p>
+    </div>
+    <div class="col-xs-4">
+      <h2><span class="glyphicon glyphicon-comment"></span> Feedback</h2>
+      <p>Do you have questions about our data, the methodology or our papers? Leave a comment or feedback of any kind, we are happy to hear from you!</p>
+      <p><a href="mailto:rsxmic005@myuct.ac.za" class="btn btn-success">Send your Comments &raquo;</a></p>
+    </div>
+  </div>
+
+  <br>
+  <br>
+  <div class="row">
+     <div class="col-xs-12">
+      <p style="text-align: center"><h3>Rankflow Diagram for the Top-25 Financial Economists 2009-2011.</h3></p>
+      <figure>
+        <img src="{{ url_for('static', filename='images/all-late_rankflow.png') }}">
+        <figcaption>Rankflow chart visualizing ranks for the same individual across different categories. Used categories (from left to right) are the number of times acknowledged, betweenness centrality and eigenvector centrality. Betweenness centrality of a researcher is the probability that she is part of shortest path between any two other researchers (see L. Freeman (1977): "A set of measures based on betweenness", <i>Sociometry</i> 40, pp. 35-41). Eigenvector centrality is the weighted sum of neighbors where the weights correspond to the neighbors' eigenvector centrality (see P. Bonacich (1986): "Power and Centrality: A Family of Measures", <i>American Journal of Sociology</i> 92(5), pp. 1170-1182). Color and bandwidth are proportional to rank.</figcaption>
+      </figure>
+    </div>
+  </div>
+  <br>
+  <br>
+  {% include 'footer.html' %}
+</div>
+</body>
+
+</html>

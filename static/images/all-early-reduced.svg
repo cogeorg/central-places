@@ -1,0 +1,2486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="889px"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" viewBox="-2528 -2734 5261 4976" height="841px"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1134.143066,-266.738831 L 1838.799194,-244.116333"
+              class="ERNST MAUG DENIS GROMB" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1134.143066,-266.738831 L 892.111938,-1558.559204"
+              class="ERNST MAUG S VISWANATHAN" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1134.143066,-266.738831 L 1518.763428,92.218414"
+              class="ERNST MAUG JULIAN FRANKS" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1134.143066,-266.738831 L 1068.895630,491.036224"
+              class="ERNST MAUG LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#926ae1"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1134.143066,-266.738831 L -155.595383,-210.923874"
+              class="ERNST MAUG ALON BRAV" stroke-opacity="1.0" stroke="#9292b9"/>
+        <path fill="none" stroke-width="2.88944721"
+              d="M -1100.189697,1143.640137 L -140.808105,2081.389160"
+              class="HARRY DEANGELO RENE M STULZ" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -1100.189697,1143.640137 L -706.581116,2166.726074"
+              class="HARRY DEANGELO TIM OPLER" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1100.189697,1143.640137 L -1915.098145,1746.927612"
+              class="HARRY DEANGELO DAVID J DENIS" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1100.189697,1143.640137 L -1392.786987,2125.939209"
+              class="HARRY DEANGELO LARRY Y DANN" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="3.51758814"
+              d="M -1100.189697,1143.640137 L -1318.869873,613.705505"
+              class="HARRY DEANGELO MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="12.31155777"
+              d="M -1100.189697,1143.640137 L -479.652557,946.393127"
+              class="HARRY DEANGELO JAY R RITTER" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="3.51758814"
+              d="M -1100.189697,1143.640137 L -1680.648438,-810.603455"
+              class="HARRY DEANGELO ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -527.931030,384.366058 L -38.097172,243.377502"
+              class="TIM LOUGHRAN MARK MITCHELL" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -527.931030,384.366058 L -1596.363281,-308.805786"
+              class="TIM LOUGHRAN THOMAS J GEORGE" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -527.931030,384.366058 L 328.243927,721.235901"
+              class="TIM LOUGHRAN PAUL A GOMPERS" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -527.931030,384.366058 L -457.453796,-882.237793"
+              class="TIM LOUGHRAN JONATHAN B BERK" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="21.10552597"
+              d="M -527.931030,384.366058 L -479.652557,946.393127"
+              class="TIM LOUGHRAN JAY R RITTER" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -527.931030,384.366058 L -546.993896,6.634520"
+              class="TIM LOUGHRAN BRAD M BARBER" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -527.931030,384.366058 L 617.470947,1932.060547"
+              class="TIM LOUGHRAN CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#92e16a"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -527.931030,384.366058 L -155.595383,-210.923874"
+              class="TIM LOUGHRAN ALON BRAV" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -527.931030,384.366058 L 282.384125,279.863098"
+              class="TIM LOUGHRAN KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1338.161133,1680.951416 L 1907.524292,1076.227295"
+              class="RALPH A WALKLING RAGHURAM G RAJAN" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="4.14572859"
+              d="M -1338.161133,1680.951416 L -140.808105,2081.389160"
+              class="RALPH A WALKLING RENE M STULZ" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -1338.161133,1680.951416 L -706.581116,2166.726074"
+              class="RALPH A WALKLING TIM OPLER" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1338.161133,1680.951416 L -1915.098145,1746.927612"
+              class="RALPH A WALKLING DAVID J DENIS" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1338.161133,1680.951416 L -1596.363281,-308.805786"
+              class="RALPH A WALKLING THOMAS J GEORGE" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1338.161133,1680.951416 L -929.215088,-698.552795"
+              class="RALPH A WALKLING MARK GRINBLATT" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1338.161133,1680.951416 L -546.993896,6.634520"
+              class="RALPH A WALKLING BRAD M BARBER" stroke-opacity="1.0"
+              stroke="#ac3692"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1338.161133,1680.951416 L 1068.895630,491.036224"
+              class="RALPH A WALKLING LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1338.161133,1680.951416 L -2485.500488,1068.079102"
+              class="RALPH A WALKLING SUNIL WAHAL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1338.161133,1680.951416 L -661.586243,1584.521118"
+              class="RALPH A WALKLING HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1338.161133,1680.951416 L -2091.347656,1993.493042"
+              class="RALPH A WALKLING DIANE K DENIS" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1545.975830,1266.671509 L -1298.515381,-999.345520"
+              class="JOHN MR CHALMERS YAKOV AMIHUD" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M -1545.975830,1266.671509 L -1058.410889,1667.435669"
+              class="JOHN MR CHALMERS WAYNE H MIKKELSON" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M -1545.975830,1266.671509 L -1761.280762,121.846077"
+              class="JOHN MR CHALMERS MARK R HUSON" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="13.56783772"
+              d="M -1545.975830,1266.671509 L -1915.098145,1746.927612"
+              class="JOHN MR CHALMERS DAVID J DENIS" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1545.975830,1266.671509 L -87.767143,1638.280151"
+              class="JOHN MR CHALMERS DAVID T BROWN" stroke-opacity="1.0"
+              stroke="#ac8592"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1545.975830,1266.671509 L -1392.786987,2125.939209"
+              class="JOHN MR CHALMERS LARRY Y DANN" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1545.975830,1266.671509 L -1897.210693,430.678375"
+              class="JOHN MR CHALMERS MICHAEL J BARCLAY" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M -1545.975830,1266.671509 L -1318.869873,613.705505"
+              class="JOHN MR CHALMERS MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1545.975830,1266.671509 L -1696.846313,2006.756714"
+              class="JOHN MR CHALMERS MARC ZENNER" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1545.975830,1266.671509 L 617.470947,1932.060547"
+              class="JOHN MR CHALMERS CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#ac8592"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1545.975830,1266.671509 L -1291.959961,-45.757568"
+              class="JOHN MR CHALMERS JAMES M POTERBA" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1545.975830,1266.671509 L -661.586243,1584.521118"
+              class="JOHN MR CHALMERS HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1545.975830,1266.671509 L -2091.347656,1993.493042"
+              class="JOHN MR CHALMERS DIANE K DENIS" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 695.496643,1087.808350 L 847.655823,-666.298096"
+              class="EDWARD J KANE SHERIDAN TITMAN" stroke-opacity="1.0"
+              stroke="#ace136"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 695.496643,1087.808350 L 1170.044678,1848.290894"
+              class="EDWARD J KANE MARK J FLANNERY" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 695.496643,1087.808350 L -1318.869873,613.705505"
+              class="EDWARD J KANE MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#ac8592"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 695.496643,1087.808350 L 844.559814,101.040039"
+              class="EDWARD J KANE CHARLES W CALOMIRIS" stroke-opacity="1.0"
+              stroke="#92e16a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 695.496643,1087.808350 L 1868.653687,3.100539"
+              class="EDWARD J KANE KOSE JOHN" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 695.496643,1087.808350 L 617.470947,1932.060547"
+              class="EDWARD J KANE CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 184.267319,-2349.926758 L -303.032806,-2222.945557"
+              class="STEPHEN A BUSER AVANIDHAR SUBRAHMANYAM"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 184.267319,-2349.926758 L 303.734283,-1816.979248"
+              class="STEPHEN A BUSER KENT DANIEL" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 184.267319,-2349.926758 L 431.161285,-2480.288086"
+              class="STEPHEN A BUSER DAVID A HIRSHLEIFER" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1298.515381,-999.345520 L 892.111938,-1558.559204"
+              class="YAKOV AMIHUD S VISWANATHAN" stroke-opacity="1.0"
+              stroke="#9292b9"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1298.515381,-999.345520 L -989.702759,-1164.358154"
+              class="YAKOV AMIHUD RICHARD C GREEN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1298.515381,-999.345520 L -1557.462646,-1237.699951"
+              class="YAKOV AMIHUD MAUREEN O&apos;HARA" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1298.515381,-999.345520 L -1680.648438,-810.603455"
+              class="YAKOV AMIHUD ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="13.56783772"
+              d="M -38.097172,243.377502 L 344.274261,-142.554199"
+              class="MARK MITCHELL EUGENE F FAMA" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -38.097172,243.377502 L 272.921509,1086.561035"
+              class="MARK MITCHELL STEVEN N KAPLAN" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -38.097172,243.377502 L -479.652557,946.393127"
+              class="MARK MITCHELL JAY R RITTER" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -38.097172,243.377502 L -155.595383,-210.923874"
+              class="MARK MITCHELL ALON BRAV" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -38.097172,243.377502 L 282.384125,279.863098"
+              class="MARK MITCHELL KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 1838.799194,-244.116333 L 1628.986450,-781.221069"
+              class="DENIS GROMB ANDREI SHLEIFER" stroke-opacity="1.0"
+              stroke="#926ae1"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1838.799194,-244.116333 L 892.111938,-1558.559204"
+              class="DENIS GROMB S VISWANATHAN" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 1838.799194,-244.116333 L 1472.373291,-268.695190"
+              class="DENIS GROMB ROBERT W VISHNY" stroke-opacity="1.0"
+              stroke="#926ae1"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1838.799194,-244.116333 L 2701.807373,700.826233"
+              class="DENIS GROMB PATRICK BOLTON" stroke-opacity="1.0"
+              stroke="#926ae1"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1838.799194,-244.116333 L 1068.895630,491.036224"
+              class="DENIS GROMB LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#926ae1"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1838.799194,-244.116333 L 1262.531982,1235.986328"
+              class="DENIS GROMB JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#ee3685"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M -303.032806,-2222.945557 L 303.734283,-1816.979248"
+              class="AVANIDHAR SUBRAHMANYAM KENT DANIEL" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L 1907.524292,1076.227295"
+              class="AVANIDHAR SUBRAHMANYAM RAGHURAM G RAJAN"
+              stroke-opacity="1.0" stroke="#50c692"/>
+        <path fill="none" stroke-width="12.31155777"
+              d="M -303.032806,-2222.945557 L 847.655823,-666.298096"
+              class="AVANIDHAR SUBRAHMANYAM SHERIDAN TITMAN"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="16.08040047"
+              d="M -303.032806,-2222.945557 L -9.478953,-2499.010498"
+              class="AVANIDHAR SUBRAHMANYAM MATTHEW SPIEGEL"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -303.032806,-2222.945557 L 344.274261,-142.554199"
+              class="AVANIDHAR SUBRAHMANYAM EUGENE F FAMA" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -303.032806,-2222.945557 L 1651.776733,-1505.150269"
+              class="AVANIDHAR SUBRAHMANYAM MICHAEL J FISHMAN"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -303.032806,-2222.945557 L -706.581116,2166.726074"
+              class="AVANIDHAR SUBRAHMANYAM TIM OPLER" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -303.032806,-2222.945557 L 1628.986450,-781.221069"
+              class="AVANIDHAR SUBRAHMANYAM ANDREI SHLEIFER"
+              stroke-opacity="1.0" stroke="#50c692"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L 708.053589,1422.601563"
+              class="AVANIDHAR SUBRAHMANYAM WILLIAM J WILHELM"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L 2503.943848,-129.294037"
+              class="AVANIDHAR SUBRAHMANYAM ANDREW WINTON" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -303.032806,-2222.945557 L -251.033844,-1437.134277"
+              class="AVANIDHAR SUBRAHMANYAM WAYNE E FERSON" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -303.032806,-2222.945557 L 120.607742,-826.443237"
+              class="AVANIDHAR SUBRAHMANYAM FRANKLIN ALLEN" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M -303.032806,-2222.945557 L 431.161285,-2480.288086"
+              class="AVANIDHAR SUBRAHMANYAM DAVID A HIRSHLEIFER"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="13.56783772"
+              d="M -303.032806,-2222.945557 L -776.143555,-1545.972168"
+              class="AVANIDHAR SUBRAHMANYAM MICHAEL J BRENNAN"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -303.032806,-2222.945557 L -1557.462646,-1237.699951"
+              class="AVANIDHAR SUBRAHMANYAM MAUREEN O&apos;HARA"
+              stroke-opacity="1.0" stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L -1585.552612,-1843.846436"
+              class="AVANIDHAR SUBRAHMANYAM LAWRENCE E HARRIS"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L -479.652557,946.393127"
+              class="AVANIDHAR SUBRAHMANYAM JAY R RITTER" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L -546.993896,6.634520"
+              class="AVANIDHAR SUBRAHMANYAM BRAD M BARBER" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -303.032806,-2222.945557 L -1284.054199,-1431.808472"
+              class="AVANIDHAR SUBRAHMANYAM RAVI JAGANNATHAN"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L 1472.373291,-268.695190"
+              class="AVANIDHAR SUBRAHMANYAM ROBERT W VISHNY"
+              stroke-opacity="1.0" stroke="#50c692"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -303.032806,-2222.945557 L -2464.416992,9.658767"
+              class="AVANIDHAR SUBRAHMANYAM HANS R STOLL" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -303.032806,-2222.945557 L -462.819183,-2708.661377"
+              class="AVANIDHAR SUBRAHMANYAM SIMON GERVAIS" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L -1680.648438,-810.603455"
+              class="AVANIDHAR SUBRAHMANYAM ANANTH MADHAVAN"
+              stroke-opacity="1.0" stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -303.032806,-2222.945557 L -529.802368,-1142.262451"
+              class="AVANIDHAR SUBRAHMANYAM MARK RUBINSTEIN"
+              stroke-opacity="1.0" stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -303.032806,-2222.945557 L 282.384125,279.863098"
+              class="AVANIDHAR SUBRAHMANYAM KENNETH R FRENCH"
+              stroke-opacity="1.0" stroke="#ac9236"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 708.537598,-1219.819458 L 1628.986450,-781.221069"
+              class="JOHN Y CAMPBELL ANDREI SHLEIFER" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 708.537598,-1219.819458 L 1111.766602,-1102.445557"
+              class="JOHN Y CAMPBELL GEERT BEKAERT" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 708.537598,-1219.819458 L 26.497938,-1229.287842"
+              class="JOHN Y CAMPBELL ROBERT F STAMBAUGH" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 708.537598,-1219.819458 L 120.607742,-826.443237"
+              class="JOHN Y CAMPBELL FRANKLIN ALLEN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 708.537598,-1219.819458 L 54.139633,-1680.145996"
+              class="JOHN Y CAMPBELL ANTHONY W LYNCH" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 303.734283,-1816.979248 L 847.655823,-666.298096"
+              class="KENT DANIEL SHERIDAN TITMAN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 303.734283,-1816.979248 L -9.478953,-2499.010498"
+              class="KENT DANIEL MATTHEW SPIEGEL" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="3.51758814"
+              d="M 303.734283,-1816.979248 L 344.274261,-142.554199"
+              class="KENT DANIEL EUGENE F FAMA" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 303.734283,-1816.979248 L -706.581116,2166.726074"
+              class="KENT DANIEL TIM OPLER" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 303.734283,-1816.979248 L 1628.986450,-781.221069"
+              class="KENT DANIEL ANDREI SHLEIFER" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 303.734283,-1816.979248 L 431.161285,-2480.288086"
+              class="KENT DANIEL DAVID A HIRSHLEIFER" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 303.734283,-1816.979248 L -457.453796,-882.237793"
+              class="KENT DANIEL JONATHAN B BERK" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 303.734283,-1816.979248 L -776.143555,-1545.972168"
+              class="KENT DANIEL MICHAEL J BRENNAN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 303.734283,-1816.979248 L -929.215088,-698.552795"
+              class="KENT DANIEL MARK GRINBLATT" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 303.734283,-1816.979248 L 1068.895630,491.036224"
+              class="KENT DANIEL LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 303.734283,-1816.979248 L -462.819183,-2708.661377"
+              class="KENT DANIEL SIMON GERVAIS" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 303.734283,-1816.979248 L 282.384125,279.863098"
+              class="KENT DANIEL KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1907.524292,1076.227295 L 847.655823,-666.298096"
+              class="RAGHURAM G RAJAN SHERIDAN TITMAN" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1907.524292,1076.227295 L 344.274261,-142.554199"
+              class="RAGHURAM G RAJAN EUGENE F FAMA" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 1907.524292,1076.227295 L 2331.044189,623.723267"
+              class="RAGHURAM G RAJAN GARY B GORTON" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 1907.524292,1076.227295 L 1628.986450,-781.221069"
+              class="RAGHURAM G RAJAN ANDREI SHLEIFER" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1907.524292,1076.227295 L 1628.774536,1761.180786"
+              class="RAGHURAM G RAJAN ANIL K KASHYAP" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1907.524292,1076.227295 L 2503.943848,-129.294037"
+              class="RAGHURAM G RAJAN ANDREW WINTON" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 1907.524292,1076.227295 L 272.921509,1086.561035"
+              class="RAGHURAM G RAJAN STEVEN N KAPLAN" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1907.524292,1076.227295 L 2618.198730,352.333221"
+              class="RAGHURAM G RAJAN MARK CAREY" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1907.524292,1076.227295 L 1170.044678,1848.290894"
+              class="RAGHURAM G RAJAN MARK J FLANNERY" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1907.524292,1076.227295 L 328.243927,721.235901"
+              class="RAGHURAM G RAJAN PAUL A GOMPERS" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1907.524292,1076.227295 L -1897.210693,430.678375"
+              class="RAGHURAM G RAJAN MICHAEL J BARCLAY" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1907.524292,1076.227295 L -776.143555,-1545.972168"
+              class="RAGHURAM G RAJAN MICHAEL J BRENNAN" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 1907.524292,1076.227295 L 2399.074463,1565.044922"
+              class="RAGHURAM G RAJAN ALLEN N BERGER" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1907.524292,1076.227295 L -479.652557,946.393127"
+              class="RAGHURAM G RAJAN JAY R RITTER" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="2.88944721"
+              d="M 1907.524292,1076.227295 L 1472.373291,-268.695190"
+              class="RAGHURAM G RAJAN ROBERT W VISHNY" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1907.524292,1076.227295 L 2701.807373,700.826233"
+              class="RAGHURAM G RAJAN PATRICK BOLTON" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="31.15578079"
+              d="M 1907.524292,1076.227295 L 1068.895630,491.036224"
+              class="RAGHURAM G RAJAN LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1907.524292,1076.227295 L 1634.658447,447.711151"
+              class="RAGHURAM G RAJAN COLIN MAYER" stroke-opacity="1.0"
+              stroke="#926ae1"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1907.524292,1076.227295 L 1262.531982,1235.986328"
+              class="RAGHURAM G RAJAN JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 1907.524292,1076.227295 L 338.428894,1675.273438"
+              class="RAGHURAM G RAJAN MITCHELL A PETERSEN" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="17.33668327"
+              d="M 1907.524292,1076.227295 L 2291.293457,301.389099"
+              class="RAGHURAM G RAJAN DOUGLAS W DIAMOND" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 1907.524292,1076.227295 L -661.586243,1584.521118"
+              class="RAGHURAM G RAJAN HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 1907.524292,1076.227295 L 2294.171631,1920.397339"
+              class="RAGHURAM G RAJAN GREGORY F UDELL" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1907.524292,1076.227295 L 282.384125,279.863098"
+              class="RAGHURAM G RAJAN KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 847.655823,-666.298096 L 344.274261,-142.554199"
+              class="SHERIDAN TITMAN EUGENE F FAMA" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 847.655823,-666.298096 L -140.808105,2081.389160"
+              class="SHERIDAN TITMAN RENE M STULZ" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L 1651.776733,-1505.150269"
+              class="SHERIDAN TITMAN MICHAEL J FISHMAN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 847.655823,-666.298096 L -706.581116,2166.726074"
+              class="SHERIDAN TITMAN TIM OPLER" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L 708.053589,1422.601563"
+              class="SHERIDAN TITMAN WILLIAM J WILHELM" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L 2503.943848,-129.294037"
+              class="SHERIDAN TITMAN ANDREW WINTON" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 847.655823,-666.298096 L -251.033844,-1437.134277"
+              class="SHERIDAN TITMAN WAYNE E FERSON" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L 120.607742,-826.443237"
+              class="SHERIDAN TITMAN FRANKLIN ALLEN" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 847.655823,-666.298096 L 431.161285,-2480.288086"
+              class="SHERIDAN TITMAN DAVID A HIRSHLEIFER" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L -1835.806519,1465.047852"
+              class="SHERIDAN TITMAN ANIL SHIVDASANI" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L -479.652557,946.393127"
+              class="SHERIDAN TITMAN JAY R RITTER" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L -929.215088,-698.552795"
+              class="SHERIDAN TITMAN MARK GRINBLATT" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L -1284.054199,-1431.808472"
+              class="SHERIDAN TITMAN RAVI JAGANNATHAN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L 1472.373291,-268.695190"
+              class="SHERIDAN TITMAN ROBERT W VISHNY" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 847.655823,-666.298096 L 1068.895630,491.036224"
+              class="SHERIDAN TITMAN LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L -661.586243,1584.521118"
+              class="SHERIDAN TITMAN HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L 680.139160,2211.367920"
+              class="SHERIDAN TITMAN CHARLES J HADLOCK" stroke-opacity="1.0"
+              stroke="#ace136"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 847.655823,-666.298096 L -155.595383,-210.923874"
+              class="SHERIDAN TITMAN ALON BRAV" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 847.655823,-666.298096 L -529.802368,-1142.262451"
+              class="SHERIDAN TITMAN MARK RUBINSTEIN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 847.655823,-666.298096 L 282.384125,279.863098"
+              class="SHERIDAN TITMAN KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -9.478953,-2499.010498 L 1651.776733,-1505.150269"
+              class="MATTHEW SPIEGEL MICHAEL J FISHMAN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -9.478953,-2499.010498 L 892.111938,-1558.559204"
+              class="MATTHEW SPIEGEL S VISWANATHAN" stroke-opacity="1.0"
+              stroke="#ac9285"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -9.478953,-2499.010498 L 431.161285,-2480.288086"
+              class="MATTHEW SPIEGEL DAVID A HIRSHLEIFER" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -9.478953,-2499.010498 L -1585.552612,-1843.846436"
+              class="MATTHEW SPIEGEL LAWRENCE E HARRIS" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -9.478953,-2499.010498 L 1868.653687,3.100539"
+              class="MATTHEW SPIEGEL KOSE JOHN" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M -9.478953,-2499.010498 L -462.819183,-2708.661377"
+              class="MATTHEW SPIEGEL SIMON GERVAIS" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -9.478953,-2499.010498 L -1680.648438,-810.603455"
+              class="MATTHEW SPIEGEL ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 2285.587158,-315.047668 L 1628.986450,-781.221069"
+              class="KENNETH J SINGLETON ANDREI SHLEIFER" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 2285.587158,-315.047668 L 1111.766602,-1102.445557"
+              class="KENNETH J SINGLETON GEERT BEKAERT" stroke-opacity="1.0"
+              stroke="#92e16a"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 2285.587158,-315.047668 L 2618.198730,352.333221"
+              class="KENNETH J SINGLETON MARK CAREY" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="13.56783772"
+              d="M 2285.587158,-315.047668 L 2264.904053,-480.228638"
+              class="KENNETH J SINGLETON J DARRELL DUFFIE" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 2285.587158,-315.047668 L 1472.373291,-268.695190"
+              class="KENNETH J SINGLETON ROBERT W VISHNY" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 2285.587158,-315.047668 L 1262.531982,1235.986328"
+              class="KENNETH J SINGLETON JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#ee8536"/>
+        <path fill="none" stroke-width="2.88944721"
+              d="M 344.274261,-142.554199 L -140.808105,2081.389160"
+              class="EUGENE F FAMA RENE M STULZ" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 344.274261,-142.554199 L -706.581116,2166.726074"
+              class="EUGENE F FAMA TIM OPLER" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 344.274261,-142.554199 L 1628.774536,1761.180786"
+              class="EUGENE F FAMA ANIL K KASHYAP" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 344.274261,-142.554199 L 272.921509,1086.561035"
+              class="EUGENE F FAMA STEVEN N KAPLAN" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 344.274261,-142.554199 L 328.243927,721.235901"
+              class="EUGENE F FAMA PAUL A GOMPERS" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 344.274261,-142.554199 L -790.779724,-953.002136"
+              class="EUGENE F FAMA JOHN C HEATON" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 344.274261,-142.554199 L 26.497938,-1229.287842"
+              class="EUGENE F FAMA ROBERT F STAMBAUGH" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 344.274261,-142.554199 L 431.161285,-2480.288086"
+              class="EUGENE F FAMA DAVID A HIRSHLEIFER" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 344.274261,-142.554199 L -217.137833,35.968067"
+              class="EUGENE F FAMA S P KOTHARI" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 344.274261,-142.554199 L 965.827820,1489.684204"
+              class="EUGENE F FAMA DAVID S SCHARFSTEIN" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 344.274261,-142.554199 L -479.652557,946.393127"
+              class="EUGENE F FAMA JAY R RITTER" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 344.274261,-142.554199 L -929.215088,-698.552795"
+              class="EUGENE F FAMA MARK GRINBLATT" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="12.31155777"
+              d="M 344.274261,-142.554199 L -546.993896,6.634520"
+              class="EUGENE F FAMA BRAD M BARBER" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 344.274261,-142.554199 L 1472.373291,-268.695190"
+              class="EUGENE F FAMA ROBERT W VISHNY" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 344.274261,-142.554199 L 1068.895630,491.036224"
+              class="EUGENE F FAMA LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 344.274261,-142.554199 L 1262.531982,1235.986328"
+              class="EUGENE F FAMA JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 344.274261,-142.554199 L -155.595383,-210.923874"
+              class="EUGENE F FAMA ALON BRAV" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="50"
+              d="M 344.274261,-142.554199 L 282.384125,279.863098"
+              class="EUGENE F FAMA KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -140.808105,2081.389160 L -1691.276978,715.960876"
+              class="RENE M STULZ CLIFFORD W SMITH" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="7.91457224"
+              d="M -140.808105,2081.389160 L -706.581116,2166.726074"
+              class="RENE M STULZ TIM OPLER" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -140.808105,2081.389160 L 2331.044189,623.723267"
+              class="RENE M STULZ GARY B GORTON" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -140.808105,2081.389160 L 1628.986450,-781.221069"
+              class="RENE M STULZ ANDREI SHLEIFER" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -140.808105,2081.389160 L 1628.774536,1761.180786"
+              class="RENE M STULZ ANIL K KASHYAP" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -140.808105,2081.389160 L 347.045258,-1077.823120"
+              class="RENE M STULZ CAMPBELL R HARVEY" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="7.28643179"
+              d="M -140.808105,2081.389160 L 328.243927,721.235901"
+              class="RENE M STULZ PAUL A GOMPERS" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -140.808105,2081.389160 L -1318.869873,613.705505"
+              class="RENE M STULZ MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -140.808105,2081.389160 L 965.827820,1489.684204"
+              class="RENE M STULZ DAVID S SCHARFSTEIN" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -140.808105,2081.389160 L -479.652557,946.393127"
+              class="RENE M STULZ JAY R RITTER" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -140.808105,2081.389160 L -546.993896,6.634520"
+              class="RENE M STULZ BRAD M BARBER" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -140.808105,2081.389160 L 1262.531982,1235.986328"
+              class="RENE M STULZ JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="3.51758814"
+              d="M -140.808105,2081.389160 L -155.595383,-210.923874"
+              class="RENE M STULZ ALON BRAV" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1651.776733,-1505.150269 L 2503.943848,-129.294037"
+              class="MICHAEL J FISHMAN ANDREW WINTON" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1058.410889,1667.435669 L -706.581116,2166.726074"
+              class="WAYNE H MIKKELSON TIM OPLER" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1058.410889,1667.435669 L -1915.098145,1746.927612"
+              class="WAYNE H MIKKELSON DAVID J DENIS" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1058.410889,1667.435669 L 1068.895630,491.036224"
+              class="WAYNE H MIKKELSON LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -1691.276978,715.960876 L -706.581116,2166.726074"
+              class="CLIFFORD W SMITH TIM OPLER" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1691.276978,715.960876 L -1318.869873,613.705505"
+              class="CLIFFORD W SMITH MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1691.276978,715.960876 L -1835.806519,1465.047852"
+              class="CLIFFORD W SMITH ANIL SHIVDASANI" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1691.276978,715.960876 L -1284.054199,-1431.808472"
+              class="CLIFFORD W SMITH RAVI JAGANNATHAN" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1761.280762,121.846077 L -1318.869873,613.705505"
+              class="MARK R HUSON MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1761.280762,121.846077 L -1915.999512,-502.716400"
+              class="MARK R HUSON HENDRIK BESSEMBINDER" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -706.581116,2166.726074 L 1628.774536,1761.180786"
+              class="TIM OPLER ANIL K KASHYAP" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -706.581116,2166.726074 L 272.921509,1086.561035"
+              class="TIM OPLER STEVEN N KAPLAN" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -706.581116,2166.726074 L -1392.786987,2125.939209"
+              class="TIM OPLER LARRY Y DANN" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -706.581116,2166.726074 L 431.161285,-2480.288086"
+              class="TIM OPLER DAVID A HIRSHLEIFER" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -706.581116,2166.726074 L 965.827820,1489.684204"
+              class="TIM OPLER DAVID S SCHARFSTEIN" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -706.581116,2166.726074 L 617.470947,1932.060547"
+              class="TIM OPLER CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#ace136"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -706.581116,2166.726074 L 680.139160,2211.367920"
+              class="TIM OPLER CHARLES J HADLOCK" stroke-opacity="1.0"
+              stroke="#ace136"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 2331.044189,623.723267 L 2503.943848,-129.294037"
+              class="GARY B GORTON ANDREW WINTON" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 2331.044189,623.723267 L 2618.198730,352.333221"
+              class="GARY B GORTON MARK CAREY" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 2331.044189,623.723267 L -1557.462646,-1237.699951"
+              class="GARY B GORTON MAUREEN O&apos;HARA" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 2331.044189,623.723267 L 2399.074463,1565.044922"
+              class="GARY B GORTON ALLEN N BERGER" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 2331.044189,623.723267 L 617.470947,1932.060547"
+              class="GARY B GORTON CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 2331.044189,623.723267 L 2291.293457,301.389099"
+              class="GARY B GORTON DOUGLAS W DIAMOND" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 2331.044189,623.723267 L 2294.171631,1920.397339"
+              class="GARY B GORTON GREGORY F UDELL" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1915.098145,1746.927612 L -1318.869873,613.705505"
+              class="DAVID J DENIS MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1915.098145,1746.927612 L -1696.846313,2006.756714"
+              class="DAVID J DENIS MARC ZENNER" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M -1915.098145,1746.927612 L -1835.806519,1465.047852"
+              class="DAVID J DENIS ANIL SHIVDASANI" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1915.098145,1746.927612 L -2485.500488,1068.079102"
+              class="DAVID J DENIS SUNIL WAHAL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1915.098145,1746.927612 L -661.586243,1584.521118"
+              class="DAVID J DENIS HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1915.098145,1746.927612 L -2091.347656,1993.493042"
+              class="DAVID J DENIS DIANE K DENIS" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1628.986450,-781.221069 L 328.243927,721.235901"
+              class="ANDREI SHLEIFER PAUL A GOMPERS" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1628.986450,-781.221069 L 431.161285,-2480.288086"
+              class="ANDREI SHLEIFER DAVID A HIRSHLEIFER" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 1628.986450,-781.221069 L 1868.653687,3.100539"
+              class="ANDREI SHLEIFER KOSE JOHN" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="29.89949608"
+              d="M 1628.986450,-781.221069 L 1472.373291,-268.695190"
+              class="ANDREI SHLEIFER ROBERT W VISHNY" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="12.93969727"
+              d="M 1628.986450,-781.221069 L 1068.895630,491.036224"
+              class="ANDREI SHLEIFER LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 1628.986450,-781.221069 L -1291.959961,-45.757568"
+              class="ANDREI SHLEIFER JAMES M POTERBA" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1628.986450,-781.221069 L -155.595383,-210.923874"
+              class="ANDREI SHLEIFER ALON BRAV" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -755.002014,-563.620056 L -251.033844,-1437.134277"
+              class="PAUL H MALATESTA WAYNE E FERSON" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -755.002014,-563.620056 L -457.453796,-882.237793"
+              class="PAUL H MALATESTA JONATHAN B BERK" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -755.002014,-563.620056 L -1318.869873,613.705505"
+              class="PAUL H MALATESTA MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1628.774536,1761.180786 L 2399.074463,1565.044922"
+              class="ANIL K KASHYAP ALLEN N BERGER" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1628.774536,1761.180786 L 617.470947,1932.060547"
+              class="ANIL K KASHYAP CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 1628.774536,1761.180786 L 1068.895630,491.036224"
+              class="ANIL K KASHYAP LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1628.774536,1761.180786 L 2294.171631,1920.397339"
+              class="ANIL K KASHYAP GREGORY F UDELL" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1628.774536,1761.180786 L 282.384125,279.863098"
+              class="ANIL K KASHYAP KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 708.053589,1422.601563 L 1170.044678,1848.290894"
+              class="WILLIAM J WILHELM MARK J FLANNERY" stroke-opacity="1.0"
+              stroke="#ace136"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 708.053589,1422.601563 L -479.652557,946.393127"
+              class="WILLIAM J WILHELM JAY R RITTER" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 708.053589,1422.601563 L 2294.171631,1920.397339"
+              class="WILLIAM J WILHELM GREGORY F UDELL" stroke-opacity="1.0"
+              stroke="#ace136"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -1596.363281,-308.805786 L -1680.648438,-810.603455"
+              class="THOMAS J GEORGE ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 2503.943848,-129.294037 L 2399.074463,1565.044922"
+              class="ANDREW WINTON ALLEN N BERGER" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 2503.943848,-129.294037 L 2291.293457,301.389099"
+              class="ANDREW WINTON DOUGLAS W DIAMOND" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1111.766602,-1102.445557 L 2264.904053,-480.228638"
+              class="GEERT BEKAERT J DARRELL DUFFIE" stroke-opacity="1.0"
+              stroke="#92e16a"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 1111.766602,-1102.445557 L 347.045258,-1077.823120"
+              class="GEERT BEKAERT CAMPBELL R HARVEY" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="12.31155777"
+              d="M 272.921509,1086.561035 L 328.243927,721.235901"
+              class="STEVEN N KAPLAN PAUL A GOMPERS" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 272.921509,1086.561035 L -1318.869873,613.705505"
+              class="STEVEN N KAPLAN MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 272.921509,1086.561035 L 965.827820,1489.684204"
+              class="STEVEN N KAPLAN DAVID S SCHARFSTEIN" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="11.05527592"
+              d="M 272.921509,1086.561035 L 1068.895630,491.036224"
+              class="STEVEN N KAPLAN LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 272.921509,1086.561035 L -661.586243,1584.521118"
+              class="STEVEN N KAPLAN HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 272.921509,1086.561035 L -155.595383,-210.923874"
+              class="STEVEN N KAPLAN ALON BRAV" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 272.921509,1086.561035 L 282.384125,279.863098"
+              class="STEVEN N KAPLAN KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 1205.450439,-1870.835449 L 1113.593140,-1874.059204"
+              class="KERRY E BACK PHILIP H DYBVIG" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1205.450439,-1870.835449 L 892.111938,-1558.559204"
+              class="KERRY E BACK S VISWANATHAN" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -717.804993,-400.501862 L -1680.648438,-810.603455"
+              class="JEROLD B WARNER ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -717.804993,-400.501862 L -155.595383,-210.923874"
+              class="JEROLD B WARNER ALON BRAV" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M -87.767143,1638.280151 L 1170.044678,1848.290894"
+              class="DAVID T BROWN MARK J FLANNERY" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -87.767143,1638.280151 L -2176.552246,293.872406"
+              class="DAVID T BROWN WILLIAM G CHRISTIE" stroke-opacity="1.0"
+              stroke="#ac8592"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -87.767143,1638.280151 L -479.652557,946.393127"
+              class="DAVID T BROWN JAY R RITTER" stroke-opacity="1.0"
+              stroke="#92e16a"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -87.767143,1638.280151 L 617.470947,1932.060547"
+              class="DAVID T BROWN CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -87.767143,1638.280151 L -2227.670410,480.244171"
+              class="DAVID T BROWN PAUL H SCHULTZ" stroke-opacity="1.0"
+              stroke="#ac8592"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -87.767143,1638.280151 L 680.139160,2211.367920"
+              class="DAVID T BROWN CHARLES J HADLOCK" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 2618.198730,352.333221 L 2264.904053,-480.228638"
+              class="MARK CAREY J DARRELL DUFFIE" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 2618.198730,352.333221 L 844.559814,101.040039"
+              class="MARK CAREY CHARLES W CALOMIRIS" stroke-opacity="1.0"
+              stroke="#92e16a"/>
+        <path fill="none" stroke-width="4.14572859"
+              d="M 2618.198730,352.333221 L 2399.074463,1565.044922"
+              class="MARK CAREY ALLEN N BERGER" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 2618.198730,352.333221 L 2294.171631,1920.397339"
+              class="MARK CAREY GREGORY F UDELL" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="16.08040047"
+              d="M 1170.044678,1848.290894 L 2399.074463,1565.044922"
+              class="MARK J FLANNERY ALLEN N BERGER" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1170.044678,1848.290894 L -479.652557,946.393127"
+              class="MARK J FLANNERY JAY R RITTER" stroke-opacity="1.0"
+              stroke="#92e16a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1170.044678,1848.290894 L 617.470947,1932.060547"
+              class="MARK J FLANNERY CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1170.044678,1848.290894 L 2701.807373,700.826233"
+              class="MARK J FLANNERY PATRICK BOLTON" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1170.044678,1848.290894 L 1634.658447,447.711151"
+              class="MARK J FLANNERY COLIN MAYER" stroke-opacity="1.0"
+              stroke="#ee8585"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 1170.044678,1848.290894 L 680.139160,2211.367920"
+              class="MARK J FLANNERY CHARLES J HADLOCK" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 347.045258,-1077.823120 L -251.033844,-1437.134277"
+              class="CAMPBELL R HARVEY WAYNE E FERSON" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 347.045258,-1077.823120 L 328.243927,721.235901"
+              class="CAMPBELL R HARVEY PAUL A GOMPERS" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 347.045258,-1077.823120 L 1113.593140,-1874.059204"
+              class="CAMPBELL R HARVEY PHILIP H DYBVIG" stroke-opacity="1.0"
+              stroke="#9292b9"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 347.045258,-1077.823120 L 892.111938,-1558.559204"
+              class="CAMPBELL R HARVEY S VISWANATHAN" stroke-opacity="1.0"
+              stroke="#9292b9"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 347.045258,-1077.823120 L -457.453796,-882.237793"
+              class="CAMPBELL R HARVEY JONATHAN B BERK" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="12.31155777"
+              d="M 347.045258,-1077.823120 L -155.595383,-210.923874"
+              class="CAMPBELL R HARVEY ALON BRAV" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="4.14572859"
+              d="M -251.033844,-1437.134277 L 26.497938,-1229.287842"
+              class="WAYNE E FERSON ROBERT F STAMBAUGH" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M -251.033844,-1437.134277 L -457.453796,-882.237793"
+              class="WAYNE E FERSON JONATHAN B BERK" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -251.033844,-1437.134277 L -776.143555,-1545.972168"
+              class="WAYNE E FERSON MICHAEL J BRENNAN" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="4.14572859"
+              d="M -251.033844,-1437.134277 L 54.139633,-1680.145996"
+              class="WAYNE E FERSON ANTHONY W LYNCH" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 328.243927,721.235901 L -479.652557,946.393127"
+              class="PAUL A GOMPERS JAY R RITTER" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 328.243927,721.235901 L 1472.373291,-268.695190"
+              class="PAUL A GOMPERS ROBERT W VISHNY" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 328.243927,721.235901 L 1068.895630,491.036224"
+              class="PAUL A GOMPERS LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 328.243927,721.235901 L 1262.531982,1235.986328"
+              class="PAUL A GOMPERS JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="16.08040047"
+              d="M 328.243927,721.235901 L -155.595383,-210.923874"
+              class="PAUL A GOMPERS ALON BRAV" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1113.593140,-1874.059204 L 892.111938,-1558.559204"
+              class="PHILIP H DYBVIG S VISWANATHAN" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -790.779724,-953.002136 L -1284.054199,-1431.808472"
+              class="JOHN C HEATON RAVI JAGANNATHAN" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -790.779724,-953.002136 L -1291.959961,-45.757568"
+              class="JOHN C HEATON JAMES M POTERBA" stroke-opacity="1.0"
+              stroke="#ac3692"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -790.779724,-953.002136 L 54.139633,-1680.145996"
+              class="JOHN C HEATON ANTHONY W LYNCH" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -790.779724,-953.002136 L 282.384125,279.863098"
+              class="JOHN C HEATON KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 26.497938,-1229.287842 L -1284.054199,-1431.808472"
+              class="ROBERT F STAMBAUGH RAVI JAGANNATHAN" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 26.497938,-1229.287842 L 786.530701,-2126.717529"
+              class="ROBERT F STAMBAUGH MATTHEW RICHARDSON" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 26.497938,-1229.287842 L -155.595383,-210.923874"
+              class="ROBERT F STAMBAUGH ALON BRAV" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 892.111938,-1558.559204 L 120.607742,-826.443237"
+              class="S VISWANATHAN FRANKLIN ALLEN" stroke-opacity="1.0"
+              stroke="#9292b9"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L -1897.210693,430.678375"
+              class="S VISWANATHAN MICHAEL J BARCLAY" stroke-opacity="1.0"
+              stroke="#ac36e1"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L 431.161285,-2480.288086"
+              class="S VISWANATHAN DAVID A HIRSHLEIFER" stroke-opacity="1.0"
+              stroke="#ac9285"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L -1557.462646,-1237.699951"
+              class="S VISWANATHAN MAUREEN O&apos;HARA" stroke-opacity="1.0"
+              stroke="#9292b9"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 892.111938,-1558.559204 L 1518.763428,92.218414"
+              class="S VISWANATHAN JULIAN FRANKS" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L -2176.552246,293.872406"
+              class="S VISWANATHAN WILLIAM G CHRISTIE" stroke-opacity="1.0"
+              stroke="#ac36e1"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L 1634.658447,447.711151"
+              class="S VISWANATHAN COLIN MAYER" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L -2227.670410,480.244171"
+              class="S VISWANATHAN PAUL H SCHULTZ" stroke-opacity="1.0"
+              stroke="#ac36e1"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L 607.450134,-2152.816650"
+              class="S VISWANATHAN BRUCE D GRUNDY" stroke-opacity="1.0"
+              stroke="#9292b9"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L -2464.416992,9.658767"
+              class="S VISWANATHAN HANS R STOLL" stroke-opacity="1.0"
+              stroke="#ac36e1"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L -462.819183,-2708.661377"
+              class="S VISWANATHAN SIMON GERVAIS" stroke-opacity="1.0"
+              stroke="#ac9285"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 892.111938,-1558.559204 L -1680.648438,-810.603455"
+              class="S VISWANATHAN ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#9292b9"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 120.607742,-826.443237 L -989.702759,-1164.358154"
+              class="FRANKLIN ALLEN RICHARD C GREEN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 120.607742,-826.443237 L 844.559814,101.040039"
+              class="FRANKLIN ALLEN CHARLES W CALOMIRIS" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 120.607742,-826.443237 L -929.215088,-698.552795"
+              class="FRANKLIN ALLEN MARK GRINBLATT" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M 120.607742,-826.443237 L 1068.895630,491.036224"
+              class="FRANKLIN ALLEN LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 120.607742,-826.443237 L -2112.022705,-234.208252"
+              class="FRANKLIN ALLEN MARC L LIPSON" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M -1897.210693,430.678375 L -1318.869873,613.705505"
+              class="MICHAEL J BARCLAY MICHAEL S WEISBACH" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="11.30653286"
+              d="M -1897.210693,430.678375 L -2176.552246,293.872406"
+              class="MICHAEL J BARCLAY WILLIAM G CHRISTIE" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="11.30653286"
+              d="M -1897.210693,430.678375 L -2227.670410,480.244171"
+              class="MICHAEL J BARCLAY PAUL H SCHULTZ" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="0"
+              d="M -1897.210693,430.678375 L -2485.500488,1068.079102"
+              class="MICHAEL J BARCLAY SUNIL WAHAL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1897.210693,430.678375 L -1291.959961,-45.757568"
+              class="MICHAEL J BARCLAY JAMES M POTERBA" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="0"
+              d="M -1897.210693,430.678375 L -2464.416992,9.658767"
+              class="MICHAEL J BARCLAY HANS R STOLL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="0"
+              d="M -1897.210693,430.678375 L -2112.022705,-234.208252"
+              class="MICHAEL J BARCLAY MARC L LIPSON" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1897.210693,430.678375 L -155.595383,-210.923874"
+              class="MICHAEL J BARCLAY ALON BRAV" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 431.161285,-2480.288086 L -776.143555,-1545.972168"
+              class="DAVID A HIRSHLEIFER MICHAEL J BRENNAN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 431.161285,-2480.288086 L -462.819183,-2708.661377"
+              class="DAVID A HIRSHLEIFER SIMON GERVAIS" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="12.31155777"
+              d="M -457.453796,-882.237793 L -989.702759,-1164.358154"
+              class="JONATHAN B BERK RICHARD C GREEN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -457.453796,-882.237793 L -1753.021240,-1136.963013"
+              class="JONATHAN B BERK CHESTER S SPATT" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -457.453796,-882.237793 L 282.384125,279.863098"
+              class="JONATHAN B BERK KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1318.869873,613.705505 L -1696.846313,2006.756714"
+              class="MICHAEL S WEISBACH MARC ZENNER" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1318.869873,613.705505 L -776.143555,-1545.972168"
+              class="MICHAEL S WEISBACH MICHAEL J BRENNAN" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1318.869873,613.705505 L 844.559814,101.040039"
+              class="MICHAEL S WEISBACH CHARLES W CALOMIRIS"
+              stroke-opacity="1.0" stroke="#5092c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1318.869873,613.705505 L -1835.806519,1465.047852"
+              class="MICHAEL S WEISBACH ANIL SHIVDASANI" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1318.869873,613.705505 L -217.137833,35.968067"
+              class="MICHAEL S WEISBACH S P KOTHARI" stroke-opacity="1.0"
+              stroke="#ac3692"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1318.869873,613.705505 L -1284.054199,-1431.808472"
+              class="MICHAEL S WEISBACH RAVI JAGANNATHAN" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1318.869873,613.705505 L 1068.895630,491.036224"
+              class="MICHAEL S WEISBACH LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1318.869873,613.705505 L -2485.500488,1068.079102"
+              class="MICHAEL S WEISBACH SUNIL WAHAL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="3.51758814"
+              d="M -1318.869873,613.705505 L -2112.672607,-1053.031494"
+              class="MICHAEL S WEISBACH J HAROLD MULHERIN" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -1318.869873,613.705505 L -1291.959961,-45.757568"
+              class="MICHAEL S WEISBACH JAMES M POTERBA" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -989.702759,-1164.358154 L -1753.021240,-1136.963013"
+              class="RICHARD C GREEN CHESTER S SPATT" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -989.702759,-1164.358154 L -929.215088,-698.552795"
+              class="RICHARD C GREEN MARK GRINBLATT" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -989.702759,-1164.358154 L -1284.054199,-1431.808472"
+              class="RICHARD C GREEN RAVI JAGANNATHAN" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1696.846313,2006.756714 L -1835.806519,1465.047852"
+              class="MARC ZENNER ANIL SHIVDASANI" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1696.846313,2006.756714 L -661.586243,1584.521118"
+              class="MARC ZENNER HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1915.999512,-502.716400 L -1557.462646,-1237.699951"
+              class="HENDRIK BESSEMBINDER MAUREEN O&apos;HARA"
+              stroke-opacity="1.0" stroke="#36ee9f"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M -1915.999512,-502.716400 L -2112.022705,-234.208252"
+              class="HENDRIK BESSEMBINDER MARC L LIPSON" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1915.999512,-502.716400 L -1680.648438,-810.603455"
+              class="HENDRIK BESSEMBINDER ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -776.143555,-1545.972168 L -2176.552246,293.872406"
+              class="MICHAEL J BRENNAN WILLIAM G CHRISTIE" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -776.143555,-1545.972168 L -1284.054199,-1431.808472"
+              class="MICHAEL J BRENNAN RAVI JAGANNATHAN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -776.143555,-1545.972168 L -2227.670410,480.244171"
+              class="MICHAEL J BRENNAN PAUL H SCHULTZ" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -776.143555,-1545.972168 L 2291.293457,301.389099"
+              class="MICHAEL J BRENNAN DOUGLAS W DIAMOND" stroke-opacity="1.0"
+              stroke="#50c692"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -776.143555,-1545.972168 L 282.384125,279.863098"
+              class="MICHAEL J BRENNAN KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1557.462646,-1237.699951 L -462.819183,-2708.661377"
+              class="MAUREEN O&apos;HARA SIMON GERVAIS" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -1557.462646,-1237.699951 L -1680.648438,-810.603455"
+              class="MAUREEN O&apos;HARA ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1835.806519,1465.047852 L -2485.500488,1068.079102"
+              class="ANIL SHIVDASANI SUNIL WAHAL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -1835.806519,1465.047852 L -661.586243,1584.521118"
+              class="ANIL SHIVDASANI HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1585.552612,-1843.846436 L -1284.054199,-1431.808472"
+              class="LAWRENCE E HARRIS RAVI JAGANNATHAN" stroke-opacity="1.0"
+              stroke="#6aee36"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -1585.552612,-1843.846436 L -2112.672607,-1053.031494"
+              class="LAWRENCE E HARRIS J HAROLD MULHERIN" stroke-opacity="1.0"
+              stroke="#6a9292"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1585.552612,-1843.846436 L -1680.648438,-810.603455"
+              class="LAWRENCE E HARRIS ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#50ee6a"/>
+        <path fill="none" stroke-width="6.03015089"
+              d="M -217.137833,35.968067 L -155.595383,-210.923874"
+              class="S P KOTHARI ALON BRAV" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -217.137833,35.968067 L 282.384125,279.863098"
+              class="S P KOTHARI KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -1753.021240,-1136.963013 L -1680.648438,-810.603455"
+              class="CHESTER S SPATT ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1868.653687,3.100539 L 2399.074463,1565.044922"
+              class="KOSE JOHN ALLEN N BERGER" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 1868.653687,3.100539 L 1472.373291,-268.695190"
+              class="KOSE JOHN ROBERT W VISHNY" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 2399.074463,1565.044922 L 617.470947,1932.060547"
+              class="ALLEN N BERGER CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 2399.074463,1565.044922 L 2701.807373,700.826233"
+              class="ALLEN N BERGER PATRICK BOLTON" stroke-opacity="1.0"
+              stroke="#92b992"/>
+        <path fill="none" stroke-width="2.88944721"
+              d="M 2399.074463,1565.044922 L 1634.658447,447.711151"
+              class="ALLEN N BERGER COLIN MAYER" stroke-opacity="1.0"
+              stroke="#ee8585"/>
+        <path fill="none" stroke-width="17.96482277"
+              d="M 2399.074463,1565.044922 L 2425.755371,1853.936646"
+              class="ALLEN N BERGER PHILIP E STRAHAN" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="21.73366737"
+              d="M 2399.074463,1565.044922 L 2294.171631,1920.397339"
+              class="ALLEN N BERGER GREGORY F UDELL" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="9.79899502"
+              d="M 1518.763428,92.218414 L 1634.658447,447.711151"
+              class="JULIAN FRANKS COLIN MAYER" stroke-opacity="1.0"
+              stroke="#ee36d4"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 965.827820,1489.684204 L 1068.895630,491.036224"
+              class="DAVID S SCHARFSTEIN LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="12.31155777"
+              d="M 965.827820,1489.684204 L 1262.531982,1235.986328"
+              class="DAVID S SCHARFSTEIN JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 965.827820,1489.684204 L 680.139160,2211.367920"
+              class="DAVID S SCHARFSTEIN CHARLES J HADLOCK" stroke-opacity="1.0"
+              stroke="#ee8536"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 965.827820,1489.684204 L 282.384125,279.863098"
+              class="DAVID S SCHARFSTEIN KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -2176.552246,293.872406 L -479.652557,946.393127"
+              class="WILLIAM G CHRISTIE JAY R RITTER" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="26.38191032"
+              d="M -2176.552246,293.872406 L -2227.670410,480.244171"
+              class="WILLIAM G CHRISTIE PAUL H SCHULTZ" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="3.76884413"
+              d="M -2176.552246,293.872406 L -2485.500488,1068.079102"
+              class="WILLIAM G CHRISTIE SUNIL WAHAL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="11.30653286"
+              d="M -2176.552246,293.872406 L -2464.416992,9.658767"
+              class="WILLIAM G CHRISTIE HANS R STOLL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="0"
+              d="M -2176.552246,293.872406 L -2112.022705,-234.208252"
+              class="WILLIAM G CHRISTIE MARC L LIPSON" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -479.652557,946.393127 L -546.993896,6.634520"
+              class="JAY R RITTER BRAD M BARBER" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -479.652557,946.393127 L 617.470947,1932.060547"
+              class="JAY R RITTER CHRISTOPHER M JAMES" stroke-opacity="1.0"
+              stroke="#92e16a"/>
+        <path fill="none" stroke-width="3.51758814"
+              d="M -479.652557,946.393127 L 1068.895630,491.036224"
+              class="JAY R RITTER LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -479.652557,946.393127 L -2227.670410,480.244171"
+              class="JAY R RITTER PAUL H SCHULTZ" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M -479.652557,946.393127 L -661.586243,1584.521118"
+              class="JAY R RITTER HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -479.652557,946.393127 L -1680.648438,-810.603455"
+              class="JAY R RITTER ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="12.31155777"
+              d="M -479.652557,946.393127 L -155.595383,-210.923874"
+              class="JAY R RITTER ALON BRAV" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -479.652557,946.393127 L 282.384125,279.863098"
+              class="JAY R RITTER KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M -546.993896,6.634520 L -155.595383,-210.923874"
+              class="BRAD M BARBER ALON BRAV" stroke-opacity="1.0"
+              stroke="#92926a"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -546.993896,6.634520 L -529.802368,-1142.262451"
+              class="BRAD M BARBER MARK RUBINSTEIN" stroke-opacity="1.0"
+              stroke="#ac9236"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M -546.993896,6.634520 L 282.384125,279.863098"
+              class="BRAD M BARBER KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="10.42713547"
+              d="M 1472.373291,-268.695190 L 1068.895630,491.036224"
+              class="ROBERT W VISHNY LUIGI ZINGALES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 1472.373291,-268.695190 L -1291.959961,-45.757568"
+              class="ROBERT W VISHNY JAMES M POTERBA" stroke-opacity="1.0"
+              stroke="#506aee"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 1472.373291,-268.695190 L -661.586243,1584.521118"
+              class="ROBERT W VISHNY HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="3.51758814"
+              d="M 1472.373291,-268.695190 L -155.595383,-210.923874"
+              class="ROBERT W VISHNY ALON BRAV" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1472.373291,-268.695190 L 282.384125,279.863098"
+              class="ROBERT W VISHNY KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 617.470947,1932.060547 L 1262.531982,1235.986328"
+              class="CHRISTOPHER M JAMES JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#ee8536"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 617.470947,1932.060547 L 2294.171631,1920.397339"
+              class="CHRISTOPHER M JAMES GREGORY F UDELL" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 2701.807373,700.826233 L 2291.293457,301.389099"
+              class="PATRICK BOLTON DOUGLAS W DIAMOND" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 1068.895630,491.036224 L 1634.658447,447.711151"
+              class="LUIGI ZINGALES COLIN MAYER" stroke-opacity="1.0"
+              stroke="#926ae1"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 1068.895630,491.036224 L 1262.531982,1235.986328"
+              class="LUIGI ZINGALES JEREMY C STEIN" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1068.895630,491.036224 L 338.428894,1675.273438"
+              class="LUIGI ZINGALES MITCHELL A PETERSEN" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="8.54271317"
+              d="M 1068.895630,491.036224 L -661.586243,1584.521118"
+              class="LUIGI ZINGALES HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1068.895630,491.036224 L -155.595383,-210.923874"
+              class="LUIGI ZINGALES ALON BRAV" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1068.895630,491.036224 L 282.384125,279.863098"
+              class="LUIGI ZINGALES KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#926a92"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M 786.530701,-2126.717529 L 607.450134,-2152.816650"
+              class="MATTHEW RICHARDSON BRUCE D GRUNDY" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 1634.658447,447.711151 L -661.586243,1584.521118"
+              class="COLIN MAYER HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#926ae1"/>
+        <path fill="none" stroke-width="10.42713547"
+              d="M 2425.755371,1853.936646 L 2294.171631,1920.397339"
+              class="PHILIP E STRAHAN GREGORY F UDELL" stroke-opacity="1.0"
+              stroke="#eed436"/>
+        <path fill="none" stroke-width="3.76884413"
+              d="M -2227.670410,480.244171 L -2485.500488,1068.079102"
+              class="PAUL H SCHULTZ SUNIL WAHAL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="3.76884413"
+              d="M -2227.670410,480.244171 L -2464.416992,9.658767"
+              class="PAUL H SCHULTZ HANS R STOLL" stroke-opacity="1.0"
+              stroke="#6a36ee"/>
+        <path fill="none" stroke-width="0"
+              d="M -2227.670410,480.244171 L -2112.022705,-234.208252"
+              class="PAUL H SCHULTZ MARC L LIPSON" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 1262.531982,1235.986328 L 680.139160,2211.367920"
+              class="JEREMY C STEIN CHARLES J HADLOCK" stroke-opacity="1.0"
+              stroke="#ee8536"/>
+        <path fill="none" stroke-width="4.77386951"
+              d="M 1262.531982,1235.986328 L 282.384125,279.863098"
+              class="JEREMY C STEIN KENNETH R FRENCH" stroke-opacity="1.0"
+              stroke="#ee3636"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -2485.500488,1068.079102 L -2112.022705,-234.208252"
+              class="SUNIL WAHAL MARC L LIPSON" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="1.00502515"
+              d="M 338.428894,1675.273438 L -661.586243,1584.521118"
+              class="MITCHELL A PETERSEN HENRI SERVAES" stroke-opacity="1.0"
+              stroke="#369fee"/>
+        <path fill="none" stroke-width="0.37688437"
+              d="M -2112.672607,-1053.031494 L -1680.648438,-810.603455"
+              class="J HAROLD MULHERIN ANANTH MADHAVAN" stroke-opacity="1.0"
+              stroke="#5092c6"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M 54.139633,-1680.145996 L 607.450134,-2152.816650"
+              class="ANTHONY W LYNCH BRUCE D GRUNDY" stroke-opacity="1.0"
+              stroke="#36ee9f"/>
+        <path fill="none" stroke-width="2.26130652"
+              d="M -661.586243,1584.521118 L -2112.022705,-234.208252"
+              class="HENRI SERVAES MARC L LIPSON" stroke-opacity="1.0"
+              stroke="#36c6c6"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ee36d4" r="36.875" cx="1134.1431"
+                class="ERNST MAUG" cy="-266.73883" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="25.625" cx="-1100.1897"
+                class="HARRY DEANGELO" cy="1143.6401" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="42.5" cx="-527.931"
+                class="TIM LOUGHRAN" cy="384.36606" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="31.25" cx="-1338.1611"
+                class="RALPH A WALKLING" cy="1680.9514" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="25.625" cx="-1545.9758"
+                class="JOHN MR CHALMERS" cy="1266.6715" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="65.0" cx="695.49664"
+                class="EDWARD J KANE" cy="1087.8083" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="20.0" cx="184.26732"
+                class="STEPHEN A BUSER" cy="-2349.9268" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="104.375" cx="-1298.5154"
+                class="YAKOV AMIHUD" cy="-999.3455" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee3636" r="42.5" cx="-38.09717"
+                class="MARK MITCHELL" cy="243.3775" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee36d4" r="20.0" cx="1838.7992"
+                class="DENIS GROMB" cy="-244.11633" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="53.75" cx="-303.0328"
+                class="AVANIDHAR SUBRAHMANYAM" cy="-2222.9456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="36.875" cx="708.5376"
+                class="JOHN Y CAMPBELL" cy="-1219.8195" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="31.25" cx="303.73428"
+                class="KENT DANIEL" cy="-1816.9792" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="155.0" cx="1907.5243"
+                class="RAGHURAM G RAJAN" cy="1076.2273" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="183.125" cx="847.6558"
+                class="SHERIDAN TITMAN" cy="-666.2981" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="25.625" cx="-9.478953"
+                class="MATTHEW SPIEGEL" cy="-2499.0105" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="20.0" cx="2285.5872"
+                class="KENNETH J SINGLETON" cy="-315.04767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee3636" r="87.5" cx="344.27426"
+                class="EUGENE F FAMA" cy="-142.5542" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="110.0" cx="-140.8081"
+                class="RENE M STULZ" cy="2081.3892" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="25.625" cx="1651.7767"
+                class="MICHAEL J FISHMAN" cy="-1505.1503" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="48.125" cx="-1058.4109"
+                class="WAYNE H MIKKELSON" cy="1667.4357" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="31.25" cx="-1691.277"
+                class="CLIFFORD W SMITH" cy="715.9609" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="25.625" cx="-1761.2808"
+                class="MARK R HUSON" cy="121.84608" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="48.125" cx="-706.5811"
+                class="TIM OPLER" cy="2166.726" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="53.75" cx="2331.0442"
+                class="GARY B GORTON" cy="623.72327" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="76.25" cx="-1915.0981"
+                class="DAVID J DENIS" cy="1746.9276" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="110.0" cx="1628.9865"
+                class="ANDREI SHLEIFER" cy="-781.22107" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="31.25" cx="-755.002"
+                class="PAUL H MALATESTA" cy="-563.62006" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="48.125" cx="1628.7745"
+                class="ANIL K KASHYAP" cy="1761.1808" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="31.25" cx="708.0536"
+                class="WILLIAM J WILHELM" cy="1422.6016" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="36.875" cx="-1596.3633"
+                class="THOMAS J GEORGE" cy="-308.8058" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="42.5" cx="2503.9438"
+                class="ANDREW WINTON" cy="-129.29404" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="1111.7666"
+                class="GEERT BEKAERT" cy="-1102.4456" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="93.125" cx="272.9215"
+                class="STEVEN N KAPLAN" cy="1086.561" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee36d4" r="20.0" cx="1205.4504"
+                class="KERRY E BACK" cy="-1870.8354" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="-717.805"
+                class="JEROLD B WARNER" cy="-400.50186" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="59.375" cx="-87.76714"
+                class="DAVID T BROWN" cy="1638.2802" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="20.0" cx="2618.1987"
+                class="MARK CAREY" cy="352.33322" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="42.5" cx="2264.904"
+                class="J DARRELL DUFFIE" cy="-480.22864" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="121.25" cx="1170.0447"
+                class="MARK J FLANNERY" cy="1848.2909" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="48.125" cx="347.04526"
+                class="CAMPBELL R HARVEY" cy="-1077.8231" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="110.0" cx="-251.03384"
+                class="WAYNE E FERSON" cy="-1437.1343" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="328.24393"
+                class="PAUL A GOMPERS" cy="721.2359" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee36d4" r="20.0" cx="1113.5931"
+                class="PHILIP H DYBVIG" cy="-1874.0592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="20.0" cx="-1392.787"
+                class="LARRY Y DANN" cy="2125.9392" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee3636" r="20.0" cx="-790.7797"
+                class="JOHN C HEATON" cy="-953.00214" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="26.497938"
+                class="ROBERT F STAMBAUGH" cy="-1229.2878" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee36d4" r="25.625" cx="892.11194"
+                class="S VISWANATHAN" cy="-1558.5592" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="87.5" cx="120.60774"
+                class="FRANKLIN ALLEN" cy="-826.44324" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="31.25" cx="-1897.2107"
+                class="MICHAEL J BARCLAY" cy="430.67838" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="65.0" cx="431.1613"
+                class="DAVID A HIRSHLEIFER" cy="-2480.288" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="25.625" cx="-457.4538"
+                class="JONATHAN B BERK" cy="-882.2378" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="25.625" cx="-1318.8699"
+                class="MICHAEL S WEISBACH" cy="613.7055" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="42.5" cx="-989.70276"
+                class="RICHARD C GREEN" cy="-1164.3582" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="53.75" cx="-1696.8463"
+                class="MARC ZENNER" cy="2006.7567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="-1915.9995"
+                class="HENDRIK BESSEMBINDER" cy="-502.7164" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="70.625" cx="-776.14355"
+                class="MICHAEL J BRENNAN" cy="-1545.9722" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="53.75" cx="844.5598"
+                class="CHARLES W CALOMIRIS" cy="101.04004" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="42.5" cx="-1557.4626"
+                class="MAUREEN O&apos;HARA" cy="-1237.7" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="36.875" cx="-1835.8065"
+                class="ANIL SHIVDASANI" cy="1465.0479" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="31.25" cx="-1585.5526"
+                class="LAWRENCE E HARRIS" cy="-1843.8464" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee3636" r="42.5" cx="-217.13783"
+                class="S P KOTHARI" cy="35.968067" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="-1753.0212"
+                class="CHESTER S SPATT" cy="-1136.963" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="48.125" cx="1868.6537"
+                class="KOSE JOHN" cy="3.100539" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="115.625" cx="2399.0745"
+                class="ALLEN N BERGER" cy="1565.0449" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee36d4" r="42.5" cx="1518.7634"
+                class="JULIAN FRANKS" cy="92.218414" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee3636" r="42.5" cx="965.8278"
+                class="DAVID S SCHARFSTEIN" cy="1489.6842" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="31.25" cx="-2176.5522"
+                class="WILLIAM G CHRISTIE" cy="293.8724" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="200.0" cx="-479.65256"
+                class="JAY R RITTER" cy="946.3931" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="20.0" cx="-929.2151"
+                class="MARK GRINBLATT" cy="-698.5528" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee3636" r="25.625" cx="-546.9939"
+                class="BRAD M BARBER" cy="6.6345196" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="48.125" cx="-1284.0542"
+                class="RAVI JAGANNATHAN" cy="-1431.8085" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="59.375" cx="1472.3733"
+                class="ROBERT W VISHNY" cy="-268.6952" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="53.75" cx="617.47095"
+                class="CHRISTOPHER M JAMES" cy="1932.0605" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="31.25" cx="2701.8074"
+                class="PATRICK BOLTON" cy="700.82623" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="98.75" cx="1068.8956"
+                class="LUIGI ZINGALES" cy="491.03622" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="786.5307"
+                class="MATTHEW RICHARDSON" cy="-2126.7175" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee36d4" r="31.25" cx="1634.6584"
+                class="COLIN MAYER" cy="447.71115" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="20.0" cx="2425.7554"
+                class="PHILIP E STRAHAN" cy="1853.9366" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="20.0" cx="-2227.6704"
+                class="PAUL H SCHULTZ" cy="480.24417" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee3636" r="81.875" cx="1262.532"
+                class="JEREMY C STEIN" cy="1235.9863" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="42.5" cx="-2485.5005"
+                class="SUNIL WAHAL" cy="1068.0791" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="81.875" cx="338.4289"
+                class="MITCHELL A PETERSEN" cy="1675.2734" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="20.0" cx="-2112.6726"
+                class="J HAROLD MULHERIN" cy="-1053.0315" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="31.25" cx="2291.2935"
+                class="DOUGLAS W DIAMOND" cy="301.3891" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="31.25" cx="-1291.96"
+                class="JAMES M POTERBA" cy="-45.75757" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="54.139633"
+                class="ANTHONY W LYNCH" cy="-1680.146" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#369fee" r="31.25" cx="-661.58624"
+                class="HENRI SERVAES" cy="1584.5211" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="48.125" cx="607.45013"
+                class="BRUCE D GRUNDY" cy="-2152.8167" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="53.75" cx="2294.1716"
+                class="GREGORY F UDELL" cy="1920.3973" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#eed436" r="31.25" cx="680.13916"
+                class="CHARLES J HADLOCK" cy="2211.368" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="36.875" cx="-2464.417"
+                class="HANS R STOLL" cy="9.658767" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="25.625" cx="-462.81918"
+                class="SIMON GERVAIS" cy="-2708.6614" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6a36ee" r="31.25" cx="-2091.3477"
+                class="DIANE K DENIS" cy="1993.493" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="36.875" cx="-2112.0227"
+                class="MARC L LIPSON" cy="-234.20825" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="65.0" cx="-1680.6484"
+                class="ANANTH MADHAVAN" cy="-810.60345" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#36ee9f" r="20.0" cx="-155.59538"
+                class="ALON BRAV" cy="-210.92387" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#6aee36" r="42.5" cx="-529.80237"
+                class="MARK RUBINSTEIN" cy="-1142.2625" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ee3636" r="70.625" cx="282.38412"
+                class="KENNETH R FRENCH" cy="279.8631" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="48" x="1134.1431" y="-257.85602" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ERNST MAUG">
+            ERNST MAUG
+        </text>
+        <text font-size="48" x="-1100.1897" y="1152.5288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="HARRY DEANGELO">
+            HARRY DEANGELO
+        </text>
+        <text font-size="48" x="-527.931" y="393.25473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TIM LOUGHRAN">
+            TIM LOUGHRAN
+        </text>
+        <text font-size="48" x="-1338.1611" y="1689.8342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="RALPH A WALKLING">
+            RALPH A WALKLING
+        </text>
+        <text font-size="48" x="-1545.9758" y="1275.5602" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JOHN MR CHALMERS">
+            JOHN MR CHALMERS
+        </text>
+        <text font-size="48" x="695.49664" y="1096.5447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="EDWARD J KANE">
+            EDWARD J KANE
+        </text>
+        <text font-size="48" x="184.26732" y="-2341.044" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="STEPHEN A BUSER">
+            STEPHEN A BUSER
+        </text>
+        <text font-size="48" x="-1298.5154" y="-990.45685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="YAKOV AMIHUD">
+            YAKOV AMIHUD
+        </text>
+        <text font-size="48" x="-38.09717" y="252.26031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MARK MITCHELL">
+            MARK MITCHELL
+        </text>
+        <text font-size="48" x="1838.7992" y="-235.22766" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DENIS GROMB">
+            DENIS GROMB
+        </text>
+        <text font-size="48" x="-303.0328" y="-2214.0627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="AVANIDHAR SUBRAHMANYAM">
+            AVANIDHAR SUBRAHMANYAM
+        </text>
+        <text font-size="48" x="708.5376" y="-1210.9308" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JOHN Y CAMPBELL">
+            JOHN Y CAMPBELL
+        </text>
+        <text font-size="48" x="303.73428" y="-1808.3894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="KENT DANIEL">
+            KENT DANIEL
+        </text>
+        <text font-size="48" x="1907.5243" y="1085.1101" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="RAGHURAM G RAJAN">
+            RAGHURAM G RAJAN
+        </text>
+        <text font-size="48" x="847.6558" y="-657.4153" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SHERIDAN TITMAN">
+            SHERIDAN TITMAN
+        </text>
+        <text font-size="48" x="-9.478953" y="-2490.1277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MATTHEW SPIEGEL">
+            MATTHEW SPIEGEL
+        </text>
+        <text font-size="48" x="2285.5872" y="-306.159" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="KENNETH J SINGLETON">
+            KENNETH J SINGLETON
+        </text>
+        <text font-size="48" x="344.27426" y="-133.67139" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="EUGENE F FAMA">
+            EUGENE F FAMA
+        </text>
+        <text font-size="48" x="-140.8081" y="2090.272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="RENE M STULZ">
+            RENE M STULZ
+        </text>
+        <text font-size="48" x="1651.7767" y="-1496.2675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MICHAEL J FISHMAN">
+            MICHAEL J FISHMAN
+        </text>
+        <text font-size="48" x="-1058.4109" y="1676.3243" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="WAYNE H MIKKELSON">
+            WAYNE H MIKKELSON
+        </text>
+        <text font-size="48" x="-1691.277" y="724.84955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="CLIFFORD W SMITH">
+            CLIFFORD W SMITH
+        </text>
+        <text font-size="48" x="-1761.2808" y="130.73474" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MARK R HUSON">
+            MARK R HUSON
+        </text>
+        <text font-size="48" x="-706.5811" y="2175.6147" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="TIM OPLER">
+            TIM OPLER
+        </text>
+        <text font-size="48" x="2331.0442" y="632.61194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="GARY B GORTON">
+            GARY B GORTON
+        </text>
+        <text font-size="48" x="-1915.0981" y="1755.8104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DAVID J DENIS">
+            DAVID J DENIS
+        </text>
+        <text font-size="48" x="1628.9865" y="-772.33826" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ANDREI SHLEIFER">
+            ANDREI SHLEIFER
+        </text>
+        <text font-size="48" x="-755.002" y="-554.73724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PAUL H MALATESTA">
+            PAUL H MALATESTA
+        </text>
+        <text font-size="48" x="1628.7745" y="1770.0636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ANIL K KASHYAP">
+            ANIL K KASHYAP
+        </text>
+        <text font-size="48" x="708.0536" y="1431.3379" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="WILLIAM J WILHELM">
+            WILLIAM J WILHELM
+        </text>
+        <text font-size="48" x="-1596.3633" y="-299.9171" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="THOMAS J GEORGE">
+            THOMAS J GEORGE
+        </text>
+        <text font-size="48" x="2503.9438" y="-120.405365" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ANDREW WINTON">
+            ANDREW WINTON
+        </text>
+        <text font-size="48" x="1111.7666" y="-1093.5627" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="GEERT BEKAERT">
+            GEERT BEKAERT
+        </text>
+        <text font-size="48" x="272.9215" y="1095.4438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="STEVEN N KAPLAN">
+            STEVEN N KAPLAN
+        </text>
+        <text font-size="48" x="1205.4504" y="-1861.9526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="KERRY E BACK">
+            KERRY E BACK
+        </text>
+        <text font-size="48" x="-717.805" y="-391.6132" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JEROLD B WARNER">
+            JEROLD B WARNER
+        </text>
+        <text font-size="48" x="-87.76714" y="1647.1688" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DAVID T BROWN">
+            DAVID T BROWN
+        </text>
+        <text font-size="48" x="2618.1987" y="361.21603" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MARK CAREY">
+            MARK CAREY
+        </text>
+        <text font-size="48" x="2264.904" y="-471.4923" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="J DARRELL DUFFIE">
+            J DARRELL DUFFIE
+        </text>
+        <text font-size="48" x="1170.0447" y="1857.0272" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MARK J FLANNERY">
+            MARK J FLANNERY
+        </text>
+        <text font-size="48" x="347.04526" y="-1068.9403" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="CAMPBELL R HARVEY">
+            CAMPBELL R HARVEY
+        </text>
+        <text font-size="48" x="-251.03384" y="-1428.2456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="WAYNE E FERSON">
+            WAYNE E FERSON
+        </text>
+        <text font-size="48" x="328.24393" y="730.1246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PAUL A GOMPERS">
+            PAUL A GOMPERS
+        </text>
+        <text font-size="48" x="1113.5931" y="-1865.1764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PHILIP H DYBVIG">
+            PHILIP H DYBVIG
+        </text>
+        <text font-size="48" x="-1392.787" y="2134.529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="LARRY Y DANN">
+            LARRY Y DANN
+        </text>
+        <text font-size="48" x="-790.7797" y="-944.11346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JOHN C HEATON">
+            JOHN C HEATON
+        </text>
+        <text font-size="48" x="26.497938" y="-1220.3992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ROBERT F STAMBAUGH">
+            ROBERT F STAMBAUGH
+        </text>
+        <text font-size="48" x="892.11194" y="-1549.6764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="S VISWANATHAN">
+            S VISWANATHAN
+        </text>
+        <text font-size="48" x="120.60774" y="-817.8534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="FRANKLIN ALLEN">
+            FRANKLIN ALLEN
+        </text>
+        <text font-size="48" x="-1897.2107" y="439.5612" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MICHAEL J BARCLAY">
+            MICHAEL J BARCLAY
+        </text>
+        <text font-size="48" x="431.1613" y="-2471.4053" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DAVID A HIRSHLEIFER">
+            DAVID A HIRSHLEIFER
+        </text>
+        <text font-size="48" x="-457.4538" y="-873.3491" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JONATHAN B BERK">
+            JONATHAN B BERK
+        </text>
+        <text font-size="48" x="-1318.8699" y="622.5883" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MICHAEL S WEISBACH">
+            MICHAEL S WEISBACH
+        </text>
+        <text font-size="48" x="-989.70276" y="-1155.4753" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="RICHARD C GREEN">
+            RICHARD C GREEN
+        </text>
+        <text font-size="48" x="-1696.8463" y="2015.6395" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MARC ZENNER">
+            MARC ZENNER
+        </text>
+        <text font-size="48" x="-1915.9995" y="-493.8336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="HENDRIK BESSEMBINDER">
+            HENDRIK BESSEMBINDER
+        </text>
+        <text font-size="48" x="-776.14355" y="-1537.0894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MICHAEL J BRENNAN">
+            MICHAEL J BRENNAN
+        </text>
+        <text font-size="48" x="844.5598" y="109.92871" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="CHARLES W CALOMIRIS">
+            CHARLES W CALOMIRIS
+        </text>
+        <text font-size="48" x="-1557.4626" y="-1228.8113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MAUREEN O&apos;HARA">
+            MAUREEN O&apos;HARA
+        </text>
+        <text font-size="48" x="-1835.8065" y="1473.9307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ANIL SHIVDASANI">
+            ANIL SHIVDASANI
+        </text>
+        <text font-size="48" x="-1585.5526" y="-1834.9636" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="LAWRENCE E HARRIS">
+            LAWRENCE E HARRIS
+        </text>
+        <text font-size="48" x="-217.13783" y="44.85674" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="S P KOTHARI">
+            S P KOTHARI
+        </text>
+        <text font-size="48" x="-1753.0212" y="-1128.0802" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="CHESTER S SPATT">
+            CHESTER S SPATT
+        </text>
+        <text font-size="48" x="1868.6537" y="11.989211" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="KOSE JOHN">
+            KOSE JOHN
+        </text>
+        <text font-size="48" x="2399.0745" y="1573.9277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ALLEN N BERGER">
+            ALLEN N BERGER
+        </text>
+        <text font-size="48" x="1518.7634" y="101.10123" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JULIAN FRANKS">
+            JULIAN FRANKS
+        </text>
+        <text font-size="48" x="965.8278" y="1498.567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DAVID S SCHARFSTEIN">
+            DAVID S SCHARFSTEIN
+        </text>
+        <text font-size="48" x="-2176.5522" y="302.75522" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="WILLIAM G CHRISTIE">
+            WILLIAM G CHRISTIE
+        </text>
+        <text font-size="48" x="-479.65256" y="955.12946" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JAY R RITTER">
+            JAY R RITTER
+        </text>
+        <text font-size="48" x="-929.2151" y="-689.67" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MARK GRINBLATT">
+            MARK GRINBLATT
+        </text>
+        <text font-size="48" x="-546.9939" y="15.224363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="BRAD M BARBER">
+            BRAD M BARBER
+        </text>
+        <text font-size="48" x="-1284.0542" y="-1422.9257" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="RAVI JAGANNATHAN">
+            RAVI JAGANNATHAN
+        </text>
+        <text font-size="48" x="1472.3733" y="-259.80652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ROBERT W VISHNY">
+            ROBERT W VISHNY
+        </text>
+        <text font-size="48" x="617.47095" y="1940.9492" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="CHRISTOPHER M JAMES">
+            CHRISTOPHER M JAMES
+        </text>
+        <text font-size="48" x="2701.8074" y="709.7149" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PATRICK BOLTON">
+            PATRICK BOLTON
+        </text>
+        <text font-size="48" x="1068.8956" y="499.91904" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="LUIGI ZINGALES">
+            LUIGI ZINGALES
+        </text>
+        <text font-size="48" x="786.5307" y="-2117.8289" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MATTHEW RICHARDSON">
+            MATTHEW RICHARDSON
+        </text>
+        <text font-size="48" x="1634.6584" y="456.59982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="COLIN MAYER">
+            COLIN MAYER
+        </text>
+        <text font-size="48" x="2425.7554" y="1862.8195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PHILIP E STRAHAN">
+            PHILIP E STRAHAN
+        </text>
+        <text font-size="48" x="-2227.6704" y="489.12698" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="PAUL H SCHULTZ">
+            PAUL H SCHULTZ
+        </text>
+        <text font-size="48" x="1262.532" y="1244.8691" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JEREMY C STEIN">
+            JEREMY C STEIN
+        </text>
+        <text font-size="48" x="-2485.5005" y="1076.9619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SUNIL WAHAL">
+            SUNIL WAHAL
+        </text>
+        <text font-size="48" x="338.4289" y="1684.1562" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MITCHELL A PETERSEN">
+            MITCHELL A PETERSEN
+        </text>
+        <text font-size="48" x="-2112.6726" y="-1044.1428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="J HAROLD MULHERIN">
+            J HAROLD MULHERIN
+        </text>
+        <text font-size="48" x="2291.2935" y="310.27777" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DOUGLAS W DIAMOND">
+            DOUGLAS W DIAMOND
+        </text>
+        <text font-size="48" x="-1291.96" y="-36.868896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="JAMES M POTERBA">
+            JAMES M POTERBA
+        </text>
+        <text font-size="48" x="54.139633" y="-1671.2573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ANTHONY W LYNCH">
+            ANTHONY W LYNCH
+        </text>
+        <text font-size="48" x="-661.58624" y="1593.4039" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="HENRI SERVAES">
+            HENRI SERVAES
+        </text>
+        <text font-size="48" x="607.45013" y="-2143.9338" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="BRUCE D GRUNDY">
+            BRUCE D GRUNDY
+        </text>
+        <text font-size="48" x="2294.1716" y="1929.286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="GREGORY F UDELL">
+            GREGORY F UDELL
+        </text>
+        <text font-size="48" x="680.13916" y="2220.2566" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="CHARLES J HADLOCK">
+            CHARLES J HADLOCK
+        </text>
+        <text font-size="48" x="-2464.417" y="18.54744" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="HANS R STOLL">
+            HANS R STOLL
+        </text>
+        <text font-size="48" x="-462.81918" y="-2699.7727" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="SIMON GERVAIS">
+            SIMON GERVAIS
+        </text>
+        <text font-size="48" x="-2091.3477" y="2002.3759" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="DIANE K DENIS">
+            DIANE K DENIS
+        </text>
+        <text font-size="48" x="-2112.0227" y="-225.31958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MARC L LIPSON">
+            MARC L LIPSON
+        </text>
+        <text font-size="48" x="-1680.6484" y="-802.0136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ANANTH MADHAVAN">
+            ANANTH MADHAVAN
+        </text>
+        <text font-size="48" x="-155.59538" y="-202.0352" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="ALON BRAV">
+            ALON BRAV
+        </text>
+        <text font-size="48" x="-529.80237" y="-1133.3796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="MARK RUBINSTEIN">
+            MARK RUBINSTEIN
+        </text>
+        <text font-size="48" x="282.38412" y="288.7459" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="KENNETH R FRENCH">
+            KENNETH R FRENCH
+        </text>
+    </g>
+</svg>

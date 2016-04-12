@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Networks (Ring view) | Friends in Central Places</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/places_style.css') }}">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <script src="http://www.d3plus.org/js/d3plus.min.js"></script>
+
+  <style type="text/css">
+  body{
+  }
+  .bs-example{
+    margin: 20px;
+  }
+  </style>
+
+  <style type="text/css">
+    #mynetwork {
+      width: 1000px;
+      height: 600px;
+      border: 1px solid lightgray;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+  {% include 'navbar.html' %}
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>The Social Network of Informal Collaboration {% if time=='early' %}(1998-2000){% else %}(2009-2011){% endif %}</h3>
+        <p>We assume a weighted but undirected link between two researchers whenever one acknowledges the other on a published research paper. The weight corresponds to the inverse number of authors. Additionally, we assume an undirected link of weight 1 between every pair of authors. Weights are additive.<br/>
+        <br/>
+        We have used 750 acknowledgments from 887 published research papers for the early sample and 1,531 acknowledgments from 1,895 published research papers for the late sample. The set of journals is the same in the early (1998-2000) and late (2009-2011) sample: The Journal of Finance, The Review of Financial Studies, the Journal of Financial Economics, the Journal of Financial Intermediation, the Journal of Money, Credit & Banking, and the Journal of Banking and Finance. More details can be found in our paper.<br />
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12">
+      <h1>Interactive Network in ring representation {% if time=='early' %}(1998-2000){% else %}(2009-2011){% endif %}</h1>
+      <p>The entire network of informal collaboration is shown (possibly long loading times). The ring representation shows the first and second neighbors of the node in focus, as well as connections between first neighbors. Nodes are color-coded according to how often they have been acknowledged. Visualization using d3plus.js.</p>
+      <div id="ring_viz"></div>
+      <script src="{{ url_for('static', filename='js/all-' + time + '-ring.js') }}"></script>
+      <script>
+      // instantiate d3plus
+      var visualization = d3plus.viz()
+        .container("#ring_viz")
+        .type("rings")
+
+        // Nodes
+        .data(data.nodes)
+        .id("id")
+        .text("label")
+        .color("occurrence")
+
+        // Links
+        .edges(data.links)
+        // visualization.edges({
+        //   "size": "strength",
+        //   "label": "strength",
+        //   "value": modelData.edges
+        // })
+
+        // Draw
+        .focus("{{focus}}")
+        .height(700)
+        .width(1000)
+        .draw()
+      </script>
+    </div>
+  </div>
+  {% include 'footer.html' %}
+</div>
+</body>
+
+</html>

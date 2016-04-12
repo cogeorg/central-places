@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Networks (Graph view) | Friends in Central Places</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/places_style.css') }}">
+  
+  <link href="http://visjs.org/dist/vis.min.css" rel="stylesheet"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="http://visjs.org/dist/vis.min.js"></script>
+
+  <style type="text/css">
+  body{
+  }
+  .bs-example{
+    margin: 20px;
+  }
+  </style>
+
+  <style type="text/css">
+    #mynetwork {
+      width: 1000px;
+      height: 600px;
+      border: 1px solid lightgray;
+    }
+  </style>
+</head>
+
+<body>
+<div class="container">
+  {% include 'navbar.html' %}
+  <div class="jumbotron">
+    <div class="row">
+      <div class="col-xs-12">
+        <h3>The Social Network of Informal Collaboration {% if time=='early' %}(1998-2000){% else %}(2009-2011){% endif %}</h3>
+        <p>We assume a weighted but undirected link between two researchers whenever one acknowledges the other on a published research paper. The weight corresponds to the inverse number of authors. Additionally, we assume an undirected link of weight 1 between every pair of authors. Weights are additive.<br/>
+        <br/>
+        We have used 750 acknowledgments from 887 published research papers for the early sample and 1,531 acknowledgments from 1,895 published research papers for the late sample. The set of journals is the same in the early (1998-2000) and late (2009-2011) sample: The Journal of Finance, The Review of Financial Studies, the Journal of Financial Economics, the Journal of Financial Intermediation, the Journal of Money, Credit & Banking, and the Journal of Banking and Finance. More details can be found in our paper.<br />
+        </p>
+      </div>
+
+      {% if time == 'early' %}
+        <p><a href="{{ url_for('networks', net_type='comwith', time='early') }}" class="btn btn-success inverse">Early sample (1998-2000) &raquo;</a>
+        <a href="{{ url_for('networks', net_type='comwith', time='late') }}" class="btn btn-success">Late sample (2009-2011) &raquo;</a></p>
+      {% else %}
+        <p><a href="{{ url_for('networks', net_type='comwith', time='early') }}" class="btn btn-success">Early sample (1998-2000) &raquo;</a>
+        <a href="{{ url_for('networks', net_type='comwith', time='late') }}" class="btn btn-success inverse">Late sample (2009-2011) &raquo;</a></p>
+      {% endif %}
+
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-xs-12">
+    {% if net_type=='comwith' %}
+      <h1>Interactive Network ({% if time=='early' %}1998-2000{% elif time=='late' %}2009-2011{% endif %})</h1>
+      <p>For computational reasons, only the giant component is shown and all links that occur only once and which at the same time have a weight smaller than 1 have been removed. Nodes are color-coded: yellow nodes are pure authors (author that are not acknowledged in the dataset), blue nodes are pure commenters (nodes that are acknowledged but have not authored a paper in the dataset) and red nodes are commenting authors. Node positions according to an adapted Fruchterman-Reingold algorithm. Visualization using vis.js.</p>
+      <p>You can:</p>
+       <ul>
+        <li>Hover over a mouse to see metrics</li>
+        <li>Highlight the social neighborhood on click (indirect neighbors colored in black)</li>
+        <li>Move nodes</li>
+        <li><div id="dropdown"></div></li>
+      </ul>
+      <div id="mynetwork"></div>
+      <script src="{{ url_for('static', filename='js/all-' + time + '-network.js') }}">
+      </script>
+      <script src="{{ url_for('static', filename='js/vis.draw.highlighted.network.js') }}">
+      </script>
+      <script src="{{ url_for('static', filename='js/dropdown.js') }}">
+      </script>
+
+      <h1>Network with community detection ({% if time=='early' %}1998-2000{% elif time=='late' %}2009-2011{% endif %})</h1>
+      <p>(For computational reasons, we only show all nodes with rank 100 or higher according to the number of times acknowledged Edge size corresponds to degree and while color groups nodes belonging to the same modularity. It can be understood as community detection based on density connections between nodes. See V. Blondel, J-L Guillaume, R. Lambiotte and E. Lefebvre: "Fast unfolding of communities in large networks", <i>Journal of Statistical Mechanics: Theory and Experiment</i> 2008, 2008 for details.)</p>
+      <img src="{{ url_for('static', filename='images/all-' + time + '-reduced.png') }}">
+      <br>
+      <ul class="nav nav-pills">
+        <li class="active"><a href="{{ url_for('static', filename='images/all-' + time + '-reduced.png') }}">.png</a></li>
+        <li><a href="{{ url_for('static', filename='images/all-' + time + '-reduced.pdf') }}">.pdf</a></li>
+        <li><a href="{{ url_for('static', filename='images/all-' + time + '-reduced.svg') }}">.svg</a></li>
+      </ul>
+    {% endif %}
+    </div>
+  </div>
+
+  <br>
+  <br>
+  {% include 'footer.html' %}
+</div>
+</body>
+
+</html>
