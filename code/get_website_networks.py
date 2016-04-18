@@ -3,7 +3,6 @@
 
 import csv
 import json
-import pandas as pd
 from string import Template
 
 import networkx as nx
@@ -60,11 +59,12 @@ if __name__ == '__main__':
         output_file = {'graph': "%s/all-%s-network.js" % (output_folder, tp),
                        'ring': "%s/all-%s-ring.js" % (output_folder, tp)}
 
-        with open(ranking_file, 'r') as inf:  # das hier auch noch ersetzen
+        with open(ranking_file, 'r') as inf:
             reader = csv.DictReader(inf)
-            ranking_dict = {row["node"]: row for row in reader}
-        pos_df = pd.read_csv(positions_file, encoding='utf-8')
-        pos = {row.node: eval(row.positions) for row in pos_df.itertuples()}
+            ranks = {row.pop("node"): row for row in reader}
+        with open(positions_file, 'r') as inf:
+            reader = csv.DictReader(inf)
+            pos = {row["node"]: eval(row['positions']) for row in reader}
 
         # MERGE AND REDUCE DATA
         # H is for ring view
@@ -97,9 +97,9 @@ if __name__ == '__main__':
             # Text
             data['text'] = text_tmplte.substitute(
                 name=name, thanks_v=data["occurrence"],
-                thanks_r=ranking_dict[name]["occurrence_rank"],
-                betw_r=ranking_dict[name]["betweenness_rank"],
-                eig_r=ranking_dict[name]["eigenvector_rank"])
+                thanks_r=ranks[name]["occurrence_rank"],
+                betw_r=ranks[name]["betweenness_rank"],
+                eig_r=ranks[name]["eigenvector_rank"])
 
         # WRITE OUT
         # Graph view // Generate manually for vis.js's expectations

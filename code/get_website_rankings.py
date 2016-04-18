@@ -26,17 +26,8 @@ def get_linktext(node, nw, tp):
     else:
         return node
 
-
-def round_if_needed(num, meas):
-    """Return value with precision depending on measure."""
-    if meas == "occurrence":
-        return int(num)
-    else:
-        return round(float(num), 4)
-
-
-def write_out_ranking(rank_dct, file, nw, tp, measure):
-    """Write out html file for ranking list."""
+def get_ranking_html(rank_dct, nw, tp, measure):
+    """Return html for ranking list."""
     header = """
 <thead>
     <tr>
@@ -59,9 +50,16 @@ def write_out_ranking(rank_dct, file, nw, tp, measure):
         # Combine elements
         entry = t.substitute(rank=rank, text=text, aff=aff, val=value)
         table.append('<tr>' + entry + '</tr>')
-    out_text = header + '\n'.join(table) + "\n</tbody>"
-    with open(output_file, 'w') as ouf:
-        ouf.write(out_text)
+    return header + '\n'.join(table) + "\n</tbody>"
+
+
+def round_if_needed(num, meas):
+    """Return value with precision depending on measure."""
+    if meas == "occurrence":
+        return int(num)
+    else:
+        return round(float(num), 4)
+
 
 
 if __name__ == '__main__':
@@ -85,10 +83,10 @@ if __name__ == '__main__':
         # READ IN
         with open(input_file, 'r') as f:
             reader = csv.DictReader(f)
-            ranks = {row["node"]: row for row in reader}
+            ranks = {row.pop("node"): row for row in reader}
         with open(affiliation_file, 'r') as f:
             reader = csv.DictReader(f)
-            affs = {row["author"]: row for row in reader}
+            affs = {row.pop("author"): row for row in reader}
         # Remove unneccessary information; merge affiliations
         for author, subdict in ranks.items():
             for key in subdict.keys():
@@ -107,6 +105,8 @@ if __name__ == '__main__':
             od = OrderedDict(sorted(reduced_dict.iteritems(),
                              key=lambda kv: int(kv[1][measure + '_rank'])))
 
+            out_text = get_ranking_html(od, nw, tp, measure)
             output_file = '{}all-{}_{}_{}.html'.format(output_folder, nw,
                                                        tp, measure)
-            write_out_ranking(od, output_file, nw, tp, measure)
+            with open(output_file, 'w') as ouf:
+                ouf.write(out_text)
