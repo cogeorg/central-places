@@ -20,10 +20,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.js"></script>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.min.css" />
-  <!--[if lt IE 9]>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.0/gh-fork-ribbon.ie.min.css" />
-  <![endif]-->
   <style type="text/css">
     body{
       padding-top: 0px;
@@ -34,7 +30,6 @@
 <body>
 <div class="container">
 
-  <a class="github-fork-ribbon" href="https://github.com/Michael-E-Rose/central-places" title="Fork me on GitHub">Fork me on GitHub</a>
   <div class="jumbotron" style="background-image: url({{ url_for('static', filename='images/places_header.jpg') }}); border: 0px;" >
     <div class="row" style="height: 200px;">
       <div class="col-xs-12">
@@ -81,7 +76,7 @@
   <div class="row">
     <div class="col-xs-4">
       <h2><span class="glyphicon glyphicon-user"></span> About</h2>
-      <p>Here you can find out a bit more about who we are and why we think this website is a fun project.</p>
+      <p>Find out who we are, why we set up this website and contact us.</p>
       <p><a href="{{ url_for('about') }}" class="btn btn-success">Find out &raquo;</a></p>
     </div>
     <div class="col-xs-4">
@@ -91,8 +86,8 @@
     </div>
     <div class="col-xs-4">
       <h2><span class="glyphicon glyphicon-comment"></span> Feedback</h2>
-      <p>Do you have questions about our data, the methodology or our papers? Leave a comment or feedback of any kind, we are happy to hear from you!</p>
-      <p><a href="mailto:rsxmic005@myuct.ac.za" class="btn btn-success">Send your Comments &raquo;</a></p>
+      <p>Do you have a suggestion to improve the website or did you find a typo? We are happy to hear from you!</p>
+      <p><a href="https://github.com/Michael-E-Rose/central-places" class="btn btn-success">Fork the site on GitHub &raquo;</a></p>
     </div>
   </div>
 
