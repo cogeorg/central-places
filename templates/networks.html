@@ -44,13 +44,10 @@
         </p>
       </div>
 
-      {% if time == 'early' %}
-        <p><a href="{{ url_for('networks', net_type='comwith', time='early') }}" class="btn btn-success inverse">Early sample (1998-2000) &raquo;</a>
-        <a href="{{ url_for('networks', net_type='comwith', time='late') }}" class="btn btn-success">Late sample (2009-2011) &raquo;</a></p>
-      {% else %}
-        <p><a href="{{ url_for('networks', net_type='comwith', time='early') }}" class="btn btn-success">Early sample (1998-2000) &raquo;</a>
-        <a href="{{ url_for('networks', net_type='comwith', time='late') }}" class="btn btn-success inverse">Late sample (2009-2011) &raquo;</a></p>
-      {% endif %}
+      <p>
+        <a href="{{ url_for('networks', net_type='comwith', time='early') }}" class="btn btn-success">Early sample (1998-2000) &raquo;</a>
+        <a href="{{ url_for('networks', net_type='comwith', time='late') }}" class="btn btn-success">Late sample (2009-2011) &raquo;</a>
+      </p>
 
     </div>
   </div>
