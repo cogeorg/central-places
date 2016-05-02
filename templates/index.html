@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta property="og:title" content="www.Central-Places.net"/>
+  <meta property="og:title" content="www.central-places.net"/>
   <meta property="og:type" content="website"/>
   <meta property="og:description" content="Academics collaborate informally by discussing their work with colleagues. We study the social network among financial economists and rank them according to their centrality in the network."/>
   <meta property="og:url" content="{{ url_for('index') }}"/>
@@ -12,8 +12,7 @@
   <meta property="twitter:title" content="www.Central-Places.net"/>
   <meta property="twitter:image" content="{{ url_for('static', filename='images/all-late_rankflow.png') }}"/>
   <meta property="twitter:description" content="Academics collaborate informally by discussing their work with colleagues. We study the social network among financial economists and to understand the flow of information."/>
-
-  <title>www.Central-Places.net: Collaboration in FinEcon</title>
+  <title>www.central-places.net: collaboration in financial economics</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/places_style.css') }}">
@@ -31,25 +30,13 @@
 <body>
 <div class="container">
 
-  <div class="jumbotron" style="background-image: url({{ url_for('static', filename='images/places_header.jpg') }}); border: 0px;" >
-    <div class="row" style="height: 200px;">
-      <div class="col-xs-12">
-        <h1 style="color: #fff;">Central Places</h1>
-        <p style="color: #fff;">The Social Network of Informal Collaboration in Financial Economics</p>
-      </div>
-    </div>
-    <div class="row" style="height: 400px;">
-      <div class="col-xs-12">
-        <blockquote>
-          <!-- <p style="color: #fff;">"So how should authors maximize the value of the journal review process? They should circulate their papers and give seminars to colleagues to receive constructive criticism before submitting to a journal."</p>
-          <p><small style="color: #ff44aa;">Richard Green, Maureen O’Hara, and G. William Schwert: Joint Editorial, <i>The Journal of Finance</i> (57)2, p. 1032.</small></p> -->
-          <p style="color: #fff;">"The growth of ideas is an international process, and only those who fully take part in the discussion will be able to exercise a significant influence."</p>
-          <p><small style="color: #ff44aa;">Friedrich August von Hayek: <i>The Constitution of Liberty</i>, p 350.</small></p>
-        </blockquote>
-      </div>
+
+  <div class="row">  
+    <div class="col-xs-4"></div>
+    <div class="col-xs-4">
+      <img alt="logo" height="100px" src="{{ url_for('static', filename='images/logo_full.png') }}">
     </div>
   </div>
-
   <div class="row">
     <div class="col-xs-4">
       <h2><span class="glyphicon glyphicon-flash"></span> The Paper</h2>
@@ -90,9 +77,8 @@
     </div>
   </div>
 
-  <br>
-  <br>
   {% include 'footer.html' %}
+  
 </div>
 </body>
 

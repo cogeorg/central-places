@@ -97,11 +97,11 @@
     box-shadow: none;
     text-shadow: none;
 }
-/* NAVBAR */
 
+/* NAVBAR */
 .navbar-inverse {
     background-color: #006699;
-    border-color: #006699;
+    border-color: #006699;    
 }
 .navbar-inverse .navbar-brand {
     color: #ffffff;
@@ -180,4 +180,21 @@
         color: #ff44aa;
         background-color: #003366;
     }
+}
+
+.footer{
+    background-color: #006699;
+    color: #fff;
+    padding-top: 14px;
+}
+.footer ul {
+    list-style: none;
+}
+.footer li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+.footer li a:hover,
+.footer li a:focus {
+    color: #ff44aa;
 }

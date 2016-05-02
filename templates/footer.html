@@ -1,7 +1,30 @@
-<div class="row">
-  <div class="col-xs-12">
-    <footer>
-      <p>Last update: 2016-04-16</p>
-    </footer>
-  </div>
-</div>
+<footer class="footer" {% if this_site == 'index' %}style='position: absolute; bottom: 0;'{% endif %}>
+	<!-- the if is necessary to not have the footer float around the index page -->
+	<div class="container">
+		<div class="row">
+		  <div class="col-xs-4">
+		  	<ul>
+		        <li><a href="{{ url_for('index') }}">Start</a></li>
+		        <li><a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2709107" target="_blank">The Paper</a></li>
+		        <li {% if this_site == 'rankings' %}class='active'{% endif %}><a href="{{ url_for('rankings', rtype='comwith', time='late', ranking='occurrence') }}">The Rankings</a></li>
+		        <li {% if this_site == 'networks' %}class='active'{% endif %}><a href="{{ url_for('networks', net_type='comwith', time='late') }}">The Networks (Graph view)</a></li>
+		        <li {% if this_site == 'rings' %}class='active'{% endif %}><a href="{{ url_for('rings',time='late') }}">The Networks (Ring view)</a></li>
+		        <li {% if this_site == 'about' %}class='active'{% endif %}><a href="{{ url_for('about') }}">About</a></li>
+		  	</ul>
+		  </div>
+		  <div class="col-xs-4">
+		  	<ul>
+		  		<li><span class="glyphicon glyphicon-map-marker"></span> University of Cape Town</li>
+		  		<li><span class="glyphicon glyphicon-map-marker" style="color: #006699;"></span> Private Bag X1</li> 
+		  		<li><span class="glyphicon glyphicon-map-marker" style="color: #006699;"></span> Rondebosch 7700</li> 
+		  		<li><span class="glyphicon glyphicon-map-marker" style="color: #006699;"></span> South Africa</li>
+		  		<li><span class="glyphicon glyphicon-map-marker" style="color: #006699;"></span></li>
+		  		<li><span class="glyphicon glyphicon-envelope"></span><a href="mailto:contact@central-places.net"> contact@central-places.net</a></li>
+		    </ul>
+		  </div>
+		  <div class="col-xs-4">
+		      <p>Last update: 2016-05-03</p>
+		  </div>
+		</div>
+	</div>
+</footer>
