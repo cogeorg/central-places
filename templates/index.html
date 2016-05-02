@@ -92,17 +92,6 @@
 
   <br>
   <br>
-  <div class="row">
-     <div class="col-xs-12">
-      <p style="text-align: center"><h3>Rankflow Diagram for the Top-25 Financial Economists 2009-2011.</h3></p>
-      <figure>
-        <img src="{{ url_for('static', filename='images/all-late_rankflow.png') }}">
-        <figcaption>Rankflow chart visualizing ranks for the same individual across different categories. Used categories (from left to right) are the number of times acknowledged, betweenness centrality and eigenvector centrality. Betweenness centrality of a researcher is the probability that she is part of shortest path between any two other researchers (see L. Freeman (1977): "A set of measures based on betweenness", <i>Sociometry</i> 40, pp. 35-41). Eigenvector centrality is the weighted sum of neighbors where the weights correspond to the neighbors' eigenvector centrality (see P. Bonacich (1986): "Power and Centrality: A Family of Measures", <i>American Journal of Sociology</i> 92(5), pp. 1170-1182). Color and bandwidth are proportional to rank.</figcaption>
-      </figure>
-    </div>
-  </div>
-  <br>
-  <br>
   {% include 'footer.html' %}
 </div>
 </body>
